@@ -17,13 +17,13 @@ While the locations of each individual cetacean’s origin and current home are 
 
 ## Sketch
 
-![alt text](https://github.com/cheje/idv-final/raw/master/prospectus-sketches/cetaceans.png "Sketch")
+![alt text](https://github.com/cheje/idv-exploratory/raw/master/prospectus-sketches/cetaceans.png "Sketch")
 
 I’ve narrowed down the chart types to a few (map, line, bar) with some possible others (treemap, table) in that they seem to best present aggregated forms of the data while still allowing the user to change features in the data. For example, a line chart can show over the years how many individuals of a particular species came into captivity. The viewer can change the type of species via a dropdown menu. I would like to go with the direction where the map is the main visualization with the line and bar charts in the “supporting” role.
 
 ## Mockups
 
-![alt text](https://github.com/cheje/idv-final/raw/master/prospectus-sketches/idv-1mockup.png "Mockup")
+![alt text](https://github.com/cheje/idv-exploratory/raw/master/prospectus-sketches/idv-1mockup.png "Mockup")
 
 1. Two maps to represent the geographical locations of where the animal was acquired and their latest/current location. 
 
