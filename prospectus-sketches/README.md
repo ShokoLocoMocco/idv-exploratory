@@ -25,28 +25,22 @@ I’ve narrowed down the chart types to a few (map, line, bar) with some possibl
 
 ![alt text](https://github.com/cheje/idv-exploratory/raw/master/prospectus-sketches/idv-1mockup.png "Mockup")
 
-1. Two maps to represent the geographical locations of where the animal was acquired and their latest/current location. 
+1. Two **maps** to represent the geographical locations of where the animal was acquired and their latest/current location. 
 
    - Interactions expected by user: If they hover over the circles, a tooltip will pop up with information on location and number of cetaceans.
-   
    - Interactions to enhance experience: Ideally the user would be able to swap between those two variables (acquired and last location).
-   
    - Context: Maybe links/info to select locations
 
-2. Bar charts showing count by species, decade acquired, count by locations (origin/last)
+2. **Bar charts** showing count by species, decade acquired, count by locations (origin/last)
 
    - Interactions expected by user: Some kind of hovering effect? Tooltip?
-   
    - Interactions to enhance experience: Swapping between variables
-   
    - Context: Links to more info?
 
-3. Line/area chart showing counts over decades by species
+3. **Line/area chart** showing counts over decades by species
 
    - Interactions expected by user: Hovering and tooltip showing count and year at each point
-   
    - Interactions to enhance experience: 
      - Dropdown menu to select by species
      - Some kind of transition effect?
-
    - Context: Info/pictures on species
