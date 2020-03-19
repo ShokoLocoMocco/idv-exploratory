@@ -17,23 +17,36 @@ While the locations of each individual cetacean’s origin and current home are 
 
 ## Sketch
 
+![alt text](https://github.com/cheje/idv-final/raw/master/prospectus-sketches/cetaceans.png "Sketch")
+
 I’ve narrowed down the chart types to a few (map, line, bar) with some possible others (treemap, table) in that they seem to best present aggregated forms of the data while still allowing the user to change features in the data. For example, a line chart can show over the years how many individuals of a particular species came into captivity. The viewer can change the type of species via a dropdown menu. I would like to go with the direction where the map is the main visualization with the line and bar charts in the “supporting” role.
 
 ## Mockups
 
+![alt text](https://github.com/cheje/idv-final/raw/master/prospectus-sketches/idv-1mockup.png "Mockup")
+
 1. Two maps to represent the geographical locations of where the animal was acquired and their latest/current location. 
-- Interactions expected by user: If they hover over the circles, a tooltip will pop up with information on location and number of cetaceans.
-- Interactions to enhance experience: Ideally the user would be able to swap between those two variables (acquired and last location).
-- Context: Maybe links/info to select locations
+
+   - Interactions expected by user: If they hover over the circles, a tooltip will pop up with information on location and number of cetaceans.
+   
+   - Interactions to enhance experience: Ideally the user would be able to swap between those two variables (acquired and last location).
+   
+   - Context: Maybe links/info to select locations
 
 2. Bar charts showing count by species, decade acquired, count by locations (origin/last)
-- Interactions expected by user: Some kind of hovering effect? Tooltip?
-- Interactions to enhance experience: Swapping between variables
-- Context: Links to more info?
+
+   - Interactions expected by user: Some kind of hovering effect? Tooltip?
+   
+   - Interactions to enhance experience: Swapping between variables
+   
+   - Context: Links to more info?
 
 3. Line/area chart showing counts over decades by species
-- Interactions expected by user: Hovering and tooltip showing count and year at each point
-- Interactions to enhance experience: 
-  - Dropdown menu to select by species
-  - Some kind of transition effect?
-- Context: Info/pictures on species
+
+   - Interactions expected by user: Hovering and tooltip showing count and year at each point
+   
+   - Interactions to enhance experience: 
+     - Dropdown menu to select by species
+     - Some kind of transition effect?
+
+   - Context: Info/pictures on species
