@@ -1,0 +1,545 @@
+last_location,city,state,longitude,latitude,species,name,sex,acquired,month_acquired,year_acquired,by,origin_location,mother,father,last_location_count
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Sherry,F,??-???-1969,NA,1969,WC,Florida Keys,Wild,Wild,8
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Corky II,F,??-Dec-1969,Dec,1969,WC,"Pender Harbor, BC",Wild,Wild,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Nemo,M,01-Jun-1970,Jun,1970,WC,"Gulf of Mexico, FL, US",Wild,Wild,81
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Killer Whale,Lolita,F,08-Aug-1970,Aug,1970,WC,"Penn Cove, WA, US",Wild,Wild,30
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Betty III,F,23-Sep-1972,Sep,1972,WC,"Gulf of Mexico, FL, US",Wild,Wild,14
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Bertha,F,11-Nov-1972,Nov,1972,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Capricorn,M,15-Dec-1972,Dec,1972,WC,"Gulf of Mexico, MS, US",Wild,Wild,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Lester,M,15-Dec-1972,Dec,1972,WC,"Gulf of Mexico, MS, US",Wild,Wild,46
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Kamali'i,M,31-Dec-1972,Dec,1972,WC,"Gulf of Mexico, MS, US",Wild,Wild,17
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Kaleo,M,29-Mar-1973,Mar,1973,CB,Sea Life Park,Kainui,Wild,17
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Tursi,F,26-Nov-1973,Nov,1973,CB,Dolphin Research Center,Little Bit,Mr. Gipper,26
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Laka,F,13-Jul-1974,Jul,1974,WC,"Gulf of Mexico, MS, US",Wild,Wild,17
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Beluga,Ferdinand,M,31-Jul-1975,Jul,1975,WC,"Hudson Bay, Canada",Wild,Wild,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Dixie,F,19-Oct-1975,Oct,1975,WC,"Florida, US",Wild,Wild,46
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Notchfin,F,26-Oct-1975,Oct,1975,WC,"Atlantic Ocean, FL, US",Wild,Wild,42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Punta,F,27-Oct-1975,Oct,1975,WC,"Atlantic Ocean, FL, US",Wild,Wild,42
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,J.J.,M,04-Sep-1976,Sep,1976,CB,Miami Seaquarium,Melissa,Flippy,30
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Gracie,F,20-Feb-1977,Feb,1977,WC,"Pacific Ocean, CA, US",Wild,Wild,46
+Dolphin Connection,Duck Key,FL,-97.2253989,27.8307975,Bottlenose,Lucky,M,06-Jun-1977,Jun,1977,RR,"Texas, Gulf of Mexico",Wild,Wild,4
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Iwa,F,16-Jun-1977,Jun,1977,WC,"Texas, Gulf of Mexico",Wild,Wild,12
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Opai,F,07-Apr-1978,Apr,1978,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Kona,F,07-Apr-1978,Apr,1978,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Akai,M,22-Apr-1978,Apr,1978,WC,"Texas, Gulf of Mexico",Wild,Wild,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Starbuck,M,13-May-1978,May,1978,CB,SeaWorld San Diego,Cindy,Sambo,50
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Nihoa,M,14-Aug-1978,Aug,1978,CB,U.S. Navy,Dash,Ben,81
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Killer Whale,Katina,F,??-Oct-1978,Oct,1978,WC,Iceland,Wild,Wild,50
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Sandy,F,03-Feb-1979,Feb,1979,CB,SeaWorld Orlando,Gigi,???,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Hastings,M,08-Mar-1979,Mar,1979,WC,"Texas, Gulf of Mexico",Wild,Wild,50
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Slooper,F,07-Jun-1979,Jun,1979,CB,U.S. Navy,Slan,Snooper,81
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Sandy,M,15-Aug-1979,Aug,1979,CB,SeaWorld Orlando,Wendy,???,26
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,"White-sided, Pacific",Betty,F,22-Jan-1980,Jan,1980,WC,"Pacific Ocean, CA, US",Wild,Wild,42
+Gulfarium Marine Adventure,Fort Walton Beach,FL,-86.593546,30.394468,Bottlenose,Delilah,F,20-Jun-1980,Jun,1980,WC,"Gulf of Mexico, FL, US",Wild,Wild,7
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,Dinghy,F,07-Sep-1980,Sep,1980,WC,Florida Keys,Wild,Wild,8
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Nacha,F,10-Oct-1980,Oct,1980,CB,SeaWorld San Diego,Notchfin,Jethro,42
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Ulises,M,??-Nov-1980,Nov,1980,WC,Iceland,Wild,Wild,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Kama,M,27-Mar-1981,Mar,1981,CB,SeaWorld San Diego,Jiffy,Jethro,81
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Kaiko'o,M,08-Aug-1981,Aug,1981,CB,Sea Life Park,Punahele,Amiko,17
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Duchess,F,04-Sep-1981,Sep,1981,WC,"Gulf of Mexico, TX, US",Wild,Wild,11
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Jenever,F,20-Oct-1981,Oct,1981,CB,SeaWorld Orlando,Wendy,???,50
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Crunch,M,16-Apr-1982,Apr,1982,WC,"Atlantic Ocean, FL",Wild,Wild,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Astra,F,07-Mar-1983,Mar,1983,CB,SeaWorld San Diego,Cindy,Clicker,46
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Rainbow,M,22-Jun-1983,Jun,1983,WC,"Gulf of Mexico, MS, US",Wild,Wild,26
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Chelsea,F,23-Aug-1983,Aug,1983,WC,"Gulf of Mexico, MS, US",Wild,Wild,14
+Aquatica Orlando,Orlando,FL,-81.45537949999999,28.4151984,Commerson's,Juan,M,23-Nov-1983,Nov,1983,WC,"Straits of Magellan, Chile",Wild,Wild,4
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Sunny,M,12-Jan-1984,Jan,1984,CB,Marineland Florida,Nellie,Rusty,14
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Yoyo,F,06-Mar-1984,Mar,1984,CB,SeaWorld San Diego,Maggie,Gouda,42
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Cherrie,F,23-Mar-1984,Mar,1984,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,April,F,15-Apr-1984,Apr,1984,CB,U.S. Navy,Jenny,Maui,81
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,Beluga,Mauyak,F,09-Jul-1984,Jul,1984,WC,"Hudson Bay, Canada",Wild,Wild,14
+Mystic Marinelife Aquarium,Mystic,CT,-71.952654,41.373494,Beluga,Natasha,F,16-Jul-1984,Jul,1984,WC,"Hudson Bay, Canada",Wild,Wild,3
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Phil,M,12-Aug-1984,Aug,1984,CB,SeaWorld Orlando,Tanya,Ralph,50
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Bottlenose,Bo,F,30-Aug-1984,Aug,1984,WC,"Gulf of Mexico, MS, US",Wild,Wild,8
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""BOB""",M,30-Aug-1984,Aug,1984,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Mu,F,05-Sep-1984,Sep,1984,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Kawaii,M,17-Sep-1984,Sep,1984,WC,"Pacific Ocean, HI, US",Wild,Wild,17
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Merina,F,21-Nov-1984,Nov,1984,CB,Dolphin Research Center,Bee,Delphi,26
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Kaimakani,M,08-Dec-1984,Dec,1984,CB,Sea Life Park,Kaula,Wild,17
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Aleta,F,21-Dec-1984,Dec,1984,CB,Dolphin Research Center,Misty,Delphi,26
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Squirt,F,12-May-1985,May,1985,WC,Florida Keys,Wild,Wild,8
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Hybrid,Keikaimalu,F,15-May-1985,May,1985,CB,Sea Life Park,Punahele,I'anui Hahai,17
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Beluga,Allua,F,14-Jul-1985,Jul,1985,WC,"Hudson Bay, Canada",Wild,Wild,46
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,B.J.,F,19-Jul-1985,Jul,1985,CB,Navy Hawaii,Lisa,Buck,17
+Mystic Marinelife Aquarium,Mystic,CT,-71.952654,41.373494,Beluga,Kela,F,31-Jul-1985,Jul,1985,WC,"Hudson Bay, Canada",Wild,Wild,3
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Cometta,F,20-Jan-1986,Jan,1986,WC,"Atlantic Ocean, FL",Wild,Wild,46
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Stormy,M,13-Sep-1986,Sep,1986,WC,Florida Keys,Wild,Wild,8
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Samantha,F,06-Nov-1986,Nov,1986,CB,Miami Seaquarium,Cathi,Papi,30
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Santini,F,30-Nov-1986,Nov,1986,CB,Dolphin Research Center,Theresa,Delphi,26
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Pseudorca,Kina,F,04-Mar-1987,Mar,1987,WC,"Pacific Ocean, Japan",Wild,Wild,17
+Brookfield Zoo,Brookfield,IL,-87.8357137,41.8328916,Bottlenose,Allie,F,01-Apr-1987,Apr,1987,CB,Dolphin Connection,April,Merlin,7
+Dolphins Plus Bayside,Key Largo,FL,-80.4189979,25.1190409,Bottlenose,Samantha,F,07-Apr-1987,Apr,1987,WC,Florida Keys,Wild,Wild,7
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Dottie,F,26-Apr-1987,Apr,1987,CB,SeaWorld Orlando,Darla,Ralph,46
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Nikki,F,26-Apr-1987,Apr,1987,WC,Florida Keys,Wild,Wild,8
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,Jessica,F,27-Apr-1987,Apr,1987,WC,Florida Keys,Wild,Wild,8
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Sarah,F,01-Jun-1987,Jun,1987,WC,Florida Keys,Wild,Wild,8
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Fathom,F,02-Jun-1987,Jun,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Luke,M,02-Jun-1987,Jun,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Splash,F,02-Jun-1987,Jun,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Chopper,M,05-Jun-1987,Jun,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,JAK,M,05-Jun-1987,Jun,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Loma,F,05-Jun-1987,Jun,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Katrina,F,16-Jun-1987,Jun,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Kolohe,F,11-Jul-1987,Jul,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Puanani,F,16-Jul-1987,Jul,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Spetz,M,16-Jul-1987,Jul,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Long Marine Lab,Santa Cruz,CA,-122.064882,36.949228,Bottlenose,Primo,M,23-Jul-1987,Jul,1987,WC,"Gulf of Mexico, MS, US",Wild,Wild,3
+Dolphin Quest Oahu,Honolulu,HI,-157.773445,21.271999,Bottlenose,Lono,M,17-Feb-1988,Feb,1988,WC,"Gulf of Mexico, FL, US",Wild,Wild,6
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Pele,F,26-Feb-1988,Feb,1988,WC,"Gulf of Mexico, FL, US",Wild,Wild,12
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Andrea,F,04-Mar-1988,Mar,1988,CB,Navy Hawaii,Lisa,Ben,81
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Clyde,M,16-Mar-1988,Mar,1988,CB,SeaWorld Orlando,Bonnie,Ralph,50
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Sparky,M,08-Apr-1988,Apr,1988,CB,SeaWorld San Diego,Sharkey,Semo,81
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Hi'iaka,F,23-Apr-1988,Apr,1988,CB,Sea Life Park,Laka,Mikioi,17
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,A.J.,M,23-May-1988,May,1988,CB,Dolphin Research Center,Aphrodite,Joe,26
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Shaka,F,27-May-1988,May,1988,WC,"Gulf of Mexico, FL, US",Wild,Wild,14
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Kimo,M,02-Jun-1988,Jun,1988,WC,"Gulf of Mexico, FL, US",Wild,Wild,10
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,China,F,05-Jun-1988,Jun,1988,WC,"Gulf of Mexico, FL, US",Wild,Wild,10
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Kona,F,15-Jun-1988,Jun,1988,WC,"Gulf of Mexico, FL, US",Wild,Wild,12
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Crissy,F,16-Jul-1988,Jul,1988,WC,"Hudson Bay, Canada",Wild,Wild,42
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Ten,F,16-Jul-1988,Jul,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Martha,F,17-Jul-1988,Jul,1988,WC,"Hudson Bay, Canada",Wild,Wild,42
+EPCOT,Orlando,FL,-81.54713,28.37314,Bottlenose,Ranier,M,25-Jul-1988,Jul,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,3
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""TYH""",M,25-Jul-1988,Jul,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Nova,F,05-Aug-1988,Aug,1988,WC,"Gulf of Mexico, FL, US",Wild,Wild,10
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Cascade,F,19-Aug-1988,Aug,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""OLY""",M,19-Aug-1988,Aug,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Mako,F,19-Aug-1988,Aug,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Dolphin Connection,Duck Key,FL,-97.2253989,27.8307975,Bottlenose,Chinook,M,23-Aug-1988,Aug,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,4
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Coho,F,23-Aug-1988,Aug,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Shasta,F,23-Aug-1988,Aug,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Snapper,F,29-Aug-1988,Aug,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Brookfield Zoo,Brookfield,IL,-87.8357137,41.8328916,Bottlenose,Tapeko,F,31-Aug-1988,Aug,1988,WC,"Atlantic Ocean, FL",Wild,Wild,7
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Tacoma,M,08-Sep-1988,Sep,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Wenatchee,M,08-Sep-1988,Sep,1988,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Orkid,F,23-Sep-1988,Sep,1988,CB,SeaWorld San Diego,Kandu V,Orky II,46
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Boris,M,04-Oct-1988,Oct,1988,CB,Navy Hawaii,Opai,Ben,17
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,"White-sided, Pacific",Loke,F,17-Oct-1988,Oct,1988,WC,"Pacific Ocean, CA, US",Wild,Wild,30
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,"White-sided, Pacific",Li'i,M,26-Oct-1988,Oct,1988,WC,"Pacific Ocean, CA, US",Wild,Wild,30
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,"White-sided, Pacific",Kri,F,21-Nov-1988,Nov,1988,WC,"Pacific Ocean, CA, US",Wild,Wild,14
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Maui,M,05-Mar-1989,Mar,1989,CB,Sea Life Park,Punahele,???,17
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Razzle,M,06-Apr-1989,Apr,1989,CB,Marineland Florida,Mary,Davy II,46
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Dazzle,F,07-Apr-1989,Apr,1989,CB,Marineland Florida,Betty III,Davy II,14
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Jasmine,F,11-May-1989,May,1989,WC,"Gulf of Mexico, MS, US",Wild,Wild,14
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Merlin,M,11-May-1989,May,1989,WC,"Gulf of Mexico, MS, US",Wild,Wild,14
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""IKA""",M,07-Aug-1989,Aug,1989,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Sandy,F,10-Aug-1989,Aug,1989,WC,Florida Gulf Coast,Wild,Wild,22
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Lightning,M,10-Aug-1989,Aug,1989,WC,"Gulf of Mexico, FL, US",Wild,Wild,11
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Belle,M,16-Aug-1989,Aug,1989,CB,SeaWorld San Antonio,Alice,Guy,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Bugs,M,25-Aug-1989,Aug,1989,WC,"Gulf of Mexico, MS, US",Wild,Wild,81
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Melanie,F,26-Aug-1989,Aug,1989,CB,SeaWorld San Diego,Scarback,Jethro,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Tasha,F,05-Feb-1990,Feb,1990,CB,SeaWorld Cleveland,Astra,Domino,50
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Bubba,M,04-Apr-1990,Apr,1990,CB,SeaWorld San Diego,Sandy,Crunch,50
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Steime,F,08-Apr-1990,Apr,1990,CB,SeaWorld Orlando,Spanky,Ralph,46
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Talon,M,08-Jun-1990,Jun,1990,CB,Dolphin Research Center,Tursi,Delphi,26
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Liberty,M,04-Jul-1990,Jul,1990,CB,Six Flags Discovery Kingdom,Chelsea,Schooner,14
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Beluga,Imaq,M,12-Aug-1990,Aug,1990,WC,"Hudson Bay, Canada",Wild,Wild,17
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Baretta,M,13-Aug-1990,Aug,1990,CB,SeaWorld San Diego,Cometta,Kai,50
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Roxy,F,26-Aug-1990,Aug,1990,CB,Marineland Florida,Pebbles,Chubby,14
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Sundance,M,02-Sep-1990,Sep,1990,CB,Miami Seaquarium,Bebe,Papi,30
+Dolphin Quest Oahu,Honolulu,HI,-157.773445,21.271999,Bottlenose,Hoku,M,30-Mar-1991,Mar,1991,CB,Kahala Hilton Oahu,Iwa,Maka,6
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Latoya,F,20-May-1991,May,1991,CB,SeaWorld Orlando,Tanya,Ralph,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Thelma,F,23-May-1991,May,1991,CB,SeaWorld Orlando,Louise,Ralph,46
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Killer Whale,Takara,F,09-Jul-1991,Jul,1991,CB,SeaWorld San Diego,Kasatka,Kotar,42
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Koa,M,13-Sep-1991,Sep,1991,CB,Navy Hawaii,Ellie,Ben,81
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Tobie,F,01-Oct-1991,Oct,1991,RR,"Melbourne Beach, FL",Wild,Wild,46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Beaker,F,25-Nov-1991,Nov,1991,CB,SeaWorld San Diego,Gracie,Stein,46
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Killer Whale,Kyuquot,M,24-Dec-1991,Dec,1991,CB,Sealand of the Pacific,Haida II,Tilikum,42
+National Aquarium,Baltimore,MD,-76.6083984,39.2853928,Bottlenose,Chesapeake,F,07-Mar-1992,Mar,1992,CB,National Aquarium,Shiloh,Akai,7
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""TRO""",M,30-Mar-1992,Mar,1992,CB,Navy San Diego,PNN,???,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Akki,M,23-Apr-1992,Apr,1992,CB,Navy Hawaii,Opai,Ben,81
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Ariel,F,03-May-1992,May,1992,CB,Marineland Florida,Betty III,Davy II,50
+Texas State Aquarium,Corpus Christi,TX,-97.391973,27.813874,Bottlenose,Shadow,M,23-Jul-1992,Jul,1992,CB,Minnesota Zoo,Rio,Semo,4
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,Beluga,Beethoven,M,08-Aug-1992,Aug,1992,CB,SeaWorld San Antonio,Bandit,Shadow,14
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Naluark,M,14-Aug-1992,Aug,1992,WC,"Hudson Bay, Canada",Wild,Wild,42
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,Beluga,Naya,F,17-Aug-1992,Aug,1992,WC,"Hudson Bay, Canada",Wild,Wild,14
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Hybrid,C.J.,M,05-Nov-1992,Nov,1992,CB,SeaWorld San Diego,Jenny,Cooper,8
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Keet,M,02-Feb-1993,Feb,1993,CB,SeaWorld San Antonio,Kalina,Kotar,46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Shouka,F,25-Feb-1993,Feb,1993,CB,Marineland Antibes,Sharkan,Kim II,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Alejandro,M,21-Mar-1993,Mar,1993,CB,SeaWorld San Antonio,Alice,Capricorn,50
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Hybrid,Bullet,F,29-Mar-1993,Mar,1993,CB,SeaWorld San Diego,Sandy,Cooper,46
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Bottlenose,Maddie,F,29-Apr-1993,Apr,1993,CB,Navy San Diego,Mu,Maui,8
+Aquatica Orlando,Orlando,FL,-81.45537949999999,28.4151984,Commerson's,Pepe,M,23-May-1993,May,1993,CB,SeaWorld San Diego,Betsy,Pancho,4
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,Alfonz,M,25-Jul-1993,Jul,1993,CB,Dolphins Plus Oceanside,Genie,Fonzie,8
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Kimbit,M,27-Aug-1993,Aug,1993,CB,Dolphins Plus Oceanside,Dinghy,L.B.,8
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,"White-sided, Pacific",Catalina,F,05-Sep-1993,Sep,1993,CB,SeaWorld San Antonio,Lorelai,Jump-Jump,30
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Ripley,M,13-Oct-1993,Oct,1993,CB,Miami Seaquarium,Cathi,J.J.,30
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,"White-sided, Pacific",Piquet,F,27-Nov-1993,Nov,1993,WC,"Pacific Ocean, CA, US",Wild,Wild,30
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,"White-sided, Pacific",Katrl,F,27-Nov-1993,Nov,1993,WC,"Pacific Ocean, CA, US",Wild,Wild,14
+EPCOT,Orlando,FL,-81.54713,28.37314,Bottlenose,Calvin,M,04-Apr-1994,Apr,1994,CB,Dolphin Connection,Schooner,Pepper,3
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Avalon,M,23-Apr-1994,Apr,1994,CB,Six Flags Discovery Kingdom,Jasmine,Bayou,14
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Naia,F,07-May-1994,May,1994,CB,EPCOT The Seas,Noriko,Maui,81
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Gilly,M,10-May-1994,May,1994,RR,"Port Isabel, TX, US",Wild,Wild,42
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Brisby,M,12-May-1994,May,1994,CB,Six Flags Discovery Kingdom,Chelsea,Bayou,14
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Tyler,M,29-May-1994,May,1994,CB,SeaWorld Orlando,Tanya,Lester,50
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Niele,M,30-Jun-1994,Jun,1994,CB,Sea Life Park,Nihoa,Amiko,17
+Dolphin Quest Oahu,Honolulu,HI,-157.773445,21.271999,Bottlenose,Kolohe,M,12-Jul-1994,Jul,1994,CB,Dolphin Quest Hawaii,Shaka,Hobi,6
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Panama,?,19-Jul-1994,Jul,1994,CB,Miami Seaquarium,Pearl,Lil' Man,30
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,Bob,M,28-Jul-1994,Jul,1994,CB,Dolphins Plus Oceanside,Jessica,Little Bit,8
+Texas State Aquarium,Corpus Christi,TX,-97.391973,27.813874,Bottlenose,Kai,M,11-Oct-1994,Oct,1994,CB,Brookfield Zoo,Windy,Gibbs*,4
+Dolphin Quest Oahu,Honolulu,HI,-157.773445,21.271999,Bottlenose,Liho,M,22-Jan-1995,Jan,1995,CB,Sea Life Park,Iwa,Maka,6
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Zac,M,23-Feb-1995,Feb,1995,CB,Gulfarium,Delilah,Panama,14
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Kendall,F,07-Jun-1995,Jun,1995,CB,Marineland Florida,Bunny,Davy II,46
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Indigo,M,22-Jun-1995,Jun,1995,CB,Miami Seaquarium,Nosey,J.J.,30
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Yoko,F,19-Jul-1995,Jul,1995,CB,SeaWorld San Antonio,Yoyo,Capricorn,46
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Mattie,F,01-Apr-1996,Apr,1996,RR,"Matagorda Island, TX, US",Wild,Wild,42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Ripley,F,20-Apr-1996,Apr,1996,CB,SeaWorld San Antonio,Puka,Capricorn,42
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Rose,F,27-Apr-1996,Apr,1996,CB,SeaWorld San Antonio,Alice,Capricorn,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Natalie,F,17-May-1996,May,1996,CB,SeaWorld San Antonio,Punta,Capricorn,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Hutch,M,24-Jun-1996,Jun,1996,CB,SeaWorld Orlando,Starkey,Lester,50
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Griffith,F,01-Aug-1996,Aug,1996,CB,SeaWorld San Diego,Melanie,Crunch,50
+Gulfarium Marine Adventure,Fort Walton Beach,FL,-86.593546,30.394468,Bottlenose,Sebastian,M,27-Aug-1996,Aug,1996,CB,SeaWorld Orlando,Sabrina,Stein,7
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Pax,M,30-Mar-1997,Mar,1997,CB,Dolphin Research Center,Tursi,Rainbow,26
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Marble,M,13-May-1997,May,1997,CB,SeaWorld Orlando,Tasha,Beachie,50
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Rascal,M,25-May-1997,May,1997,CB,SeaWorld Cleveland,Steime,Nalu,50
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Clipper,F,26-May-1997,May,1997,CB,SeaWorld Orlando,Louise,Lester,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Dash,F,27-May-1997,May,1997,CB,Sea World of Ohio,Dottie,Clyde,50
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Skye,F,19-Aug-1997,Aug,1997,CB,Miami Seaquarium,April,J.J.,30
+Dolphin Quest Oahu,Honolulu,HI,-157.773445,21.271999,Bottlenose,Nainoa,M,31-Oct-1997,Oct,1997,CB,Dolphin Quest Hawaii,Kona,Hobi,6
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Pandora,F,22-Nov-1997,Nov,1997,CB,Dolphin Research Center,Merina,Kibby,26
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Diego,M,26-Dec-1997,Dec,1997,CB,SeaWorld San Diego,Sandy,Stein,50
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Sherman,M,03-Feb-1998,Feb,1998,CB,Theater of the Sea,Sherry,Stormy,8
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Calla,F,24-Feb-1998,Feb,1998,CB,SeaWorld Orlando,Lily,Lester,50
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Malibu,F,10-Mar-1998,Mar,1998,CB,SeaWorld San Diego,Bacardi,Stein,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Roxy,F,19-Jun-1998,Jun,1998,CB,SeaWorld Cleveland,Thelma,Clyde,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Oscar,M,30-Jun-1998,Jun,1998,CB,SeaWorld Cleveland,Latoya,Nalu,50
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Loki,M,02-Jul-1998,Jul,1998,CB,U.S. Navy,Mu,???,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Evinrude,M,07-Jul-1998,Jul,1998,CB,U.S. Navy,Bertha,???,81
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Fathom,M,17-Aug-1998,Aug,1998,CB,SeaWorld San Antonio,Puka,Capricorn,42
+Aquatica Orlando,Orlando,FL,-81.45537949999999,28.4151984,Commerson's,Ross,M,01-Sep-1998,Sep,1998,CB,SeaWorld San Diego,Betsy,Juan,4
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Dakota,M,14-Nov-1998,Nov,1998,CB,U.S. Navy,Opai,Rake,81
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Star,F,16-Apr-1999,Apr,1999,CB,Miami Seaquarium,Hollywood,J.J.,30
+National Aquarium,Baltimore,MD,-76.6083984,39.2853928,Bottlenose,Jade,F,22-May-1999,May,1999,CB,SeaWorld Orlando,Tanya,Lester,7
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Nimbus,M,14-Jun-1999,Jun,1999,CB,Dolphin Quest Bermuda,Cirrus,Gibbs*,12
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Killer Whale,Tuar,M,22-Jun-1999,Jun,1999,CB,SeaWorld Orlando,Kalina,Tilikum,42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,"White-sided, Pacific",Avalon,F,18-Jul-1999,Jul,1999,CB,SeaWorld San Antonio,Catalina,Jump-Jump,42
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Daphne,F,20-Jul-1999,Jul,1999,CB,SeaWorld San Diego,Steime,Clyde,46
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Kenobi,M,21-Jul-1999,Jul,1999,CB,SeaWorld San Diego,Tobie,Clyde,17
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Bimini,M,22-Jul-1999,Jul,1999,CB,Miami Seaquarium,Nosey,J.J.,30
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Beluga,Whisper,F,25-Jul-1999,Jul,1999,CB,SeaWorld San Antonio,Crissy,Luke,17
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Onyx,M,28-Jul-1999,Jul,1999,CB,Miami Seaquarium,Pearl,J.J.,30
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,Beluga,Kayavak,F,03-Aug-1999,Aug,1999,CB,Shedd Aquarium,Immiayuk,Inuk,14
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,"White-sided, Pacific",Hailey,F,28-Aug-1999,Aug,1999,CB,SeaWorld San Antonio,Betty,Jump-Jump,42
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Denise,F,20-Sep-1999,Sep,1999,CB,Miami Seaquarium,Tori,Noel,30
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Brady,M,28-Oct-1999,Oct,1999,CB,SeaWorld San Antonio,Punta,Capricorn,42
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Brandy,M,04-Mar-2000,Mar,2000,CB,Gulfarium,Delilah,Prince,14
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Huf-n-Puf,F,07-Mar-2000,Mar,2000,CB,Mirage Dolphin Habitat,Duchess,Banjo,11
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Madison,F,31-Mar-2000,Mar,2000,CB,SeaWorld San Diego,Melanie,Phil,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Baily,F,30-Apr-2000,Apr,2000,CB,U.S. Navy,Snapper,Rake,81
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Polka,M,21-May-2000,May,2000,CB,SeaWorld San Diego,Dottie,Bodine,17
+EPCOT,Orlando,FL,-81.54713,28.37314,Bottlenose,Malabar,M,13-Jun-2000,Jun,2000,CB,Dolphin Quest Bermuda,Bailey,Gibbs*,3
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Tango,M,09-Jul-2000,Jul,2000,CB,SeaWorld Orlando,Tasha,Belle,81
+Aquatica Orlando,Orlando,FL,-81.45537949999999,28.4151984,Commerson's,Ringer,F,10-Jul-2000,Jul,2000,CB,SeaWorld San Diego,Oreo,Juan,4
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Luna,F,24-Jul-2000,Jul,2000,CB,SeaWorld San Antonio,Martina,Luke,42
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Corona,F,12-Aug-2000,Aug,2000,CB,SeaWorld San Diego,Cometta,Crunch,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Tiger,M,20-Aug-2000,Aug,2000,CB,SeaWorld Orlando,Lily,Belle,50
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Bottlenose,Jag,M,25-Aug-2000,Aug,2000,CB,SeaWorld Orlando,Jenever,Capricorn,8
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Keo,F,01-Sep-2000,Sep,2000,CB,Dolphin Quest Hawaii,Pele,Lono,12
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Coral,F,04-Oct-2000,Oct,2000,CB,Discovery Cove,Jenny,Phil,46
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Sydney,M,09-Oct-2000,Oct,2000,CB,SeaWorld San Diego,Sandy,Baretta,17
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Pacino,M,13-Oct-2000,Oct,2000,CB,SeaWorld San Diego,Scarback,Crunch,17
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,"White-sided, Pacific",Munchkin,F,21-Oct-2000,Oct,2000,CB,SeaWorld San Antonio,Lavern,Jump-Jump,14
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Bella,F,03-Nov-2000,Nov,2000,CB,Dolphins Plus Oceanside,Sarah,Fonzie,8
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Kalei,F,16-Nov-2000,Nov,2000,CB,Indianapolis Zoo,Nova,Sundance,10
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Calusa,F,15-Feb-2001,Feb,2001,CB,Dolphin Research Center,Merina,Rainbow,26
+National Aquarium,Baltimore,MD,-76.6083984,39.2853928,Bottlenose,Spirit,F,13-Apr-2001,Apr,2001,CB,National Aquarium,Nani,Nalu,7
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Nikki,F,13-Apr-2001,Apr,2001,CB,SeaWorld San Antonio,Nacha,Kai,42
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Abaco,M,02-May-2001,May,2001,CB,Miami Seaquarium,Cathi,J.J.,30
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Deke,M,07-May-2001,May,2001,CB,SeaWorld Orlando,Nova,Hekili,14
+National Aquarium,Baltimore,MD,-76.6083984,39.2853928,Bottlenose,Maya,?,13-May-2001,May,2001,CB,National Aquarium,Shiloh,Nalu,7
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Annie,F,09-Jun-2001,Jun,2001,CB,U.S. Navy,Nina,Ekahi,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Cole,M,16-Jun-2001,Jun,2001,CB,U.S. Navy,POP,Nihoa,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Pele,F,19-Jun-2001,Jun,2001,CB,U.S. Navy,Mu,Nihoa,81
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Indie,F,07-Jul-2001,Jul,2001,CB,Gulf World Marine Park,Cola,Lightning,22
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Sadie,F,04-Aug-2001,Aug,2001,CB,SeaWorld San Antonio,Puka,Kai,42
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Indy,F,20-Aug-2001,Aug,2001,CB,Indianapolis Zoo,China,Sundance,10
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Nakai,M,01-Sep-2001,Sep,2001,CB,SeaWorld San Diego,Kasatka,"A.I., Tilikum",46
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Croix,M,02-Dec-2001,Dec,2001,CB,Miami Seaquarium,April,J.J.,30
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Naia,F,08-Jan-2002,Jan,2002,CB,Discovery Cove,Scarlet,Lester,50
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Bottlenose,Neo,M,30-Jan-2002,Jan,2002,CB,Discovery Cove,Astra,Lester,8
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Jett,M,02-Feb-2002,Feb,2002,CB,Indianapolis Zoo,Ripley,Sundance,10
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Tanner,M,13-Mar-2002,Mar,2002,CB,Dolphin Research Center,Santini,A.J.,26
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Alpha,M,19-Apr-2002,Apr,2002,CB,SeaWorld Orlando,Ariel,Razzle,50
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Casique,F,30-Apr-2002,Apr,2002,CB,Marineland Florida,Dazzle,Chubby,14
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Aries,?,03-May-2002,May,2002,CB,Miami Seaquarium,Samantha,Noel,30
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Phebe,F,05-May-2002,May,2002,CB,Marineland Florida,Betty,Chubby,17
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Champlain,M,31-May-2002,May,2002,CB,U.S. Navy,Opai,Jake,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Hornet,F,06-Jun-2002,Jun,2002,CB,U.S. Navy,Shasta,Nihoa,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Constellation,F,16-Jun-2002,Jun,2002,CB,U.S. Navy,Kolohe,Nihoa,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Independence,M,18-Jun-2002,Jun,2002,CB,U.S. Navy,April,Ekahi,81
+Mystic Marinelife Aquarium,Mystic,CT,-71.952654,41.373494,Beluga,Juno,M,06-Jul-2002,Jul,2002,CB,Marineland Canada,Denise,???,3
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Beluga,Klondike,M,13-Jul-2002,Jul,2002,CB,Marineland Canada,Xena,???,46
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Luna,F,30-Jul-2002,Jul,2002,CB,Miami Seaquarium,Hollywood,J.J.,30
+Brookfield Zoo,Brookfield,IL,-87.8357137,41.8328916,Bottlenose,Spree,F,16-Aug-2002,Aug,2002,CB,Minnesota Zoo,Rio,Semo,7
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Ikaika,M,25-Aug-2002,Aug,2002,CB,SeaWorld Orlando,Katina,Tilikum,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Randall,M,11-Dec-2002,Dec,2002,CB,U.S. Navy,Cascade,Rake,81
+Clearwater Marine Aquarium,Clearwater,FL,-82.8191129,27.9768545,Bottlenose,Nicholas,M,23-Dec-2002,Dec,2002,RR,"Bullfrog Creek, FL",Noelle,Wild,4
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Marea,F,06-Feb-2003,Feb,2003,CB,Discovery Cove,Thelma,Akai,46
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Cupid,M,14-Feb-2003,Feb,2003,RR,"Quintana Beach, TX",Wild,Wild,14
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Maverick,M,27-Feb-2003,Feb,2003,CB,Mirage Dolphin Habitat,Duchess,Banjo,11
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Pukanala,F,03-Mar-2003,Mar,2003,CB,Dolphin Quest Hawaii,Iwa,Lono,17
+Gulfarium Marine Adventure,Fort Walton Beach,FL,-86.593546,30.394468,Bottlenose,Lily,F,20-Apr-2003,Apr,2003,CB,Gulfarium,Delilah,Prince,7
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Charlie,M,18-May-2003,May,2003,CB,SeaWorld San Diego,Purina,Tacoma,81
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Maguire,F,29-May-2003,May,2003,CB,SeaWorld San Diego,Tobie,"A.I., Tacoma",46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Nitro,M,14-Jun-2003,Jun,2003,CB,SeaWorld San Diego,Dottie,Stein,81
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Zana,F,17-Jun-2003,Jun,2003,CB,SeaWorld San Diego,Steime,Stein,46
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,Beluga,Aurek,M,27-Jun-2003,Jun,2003,CB,Marineland Canada,Gemini,???,14
+Dolphins Plus Bayside,Key Largo,FL,-80.4189979,25.1190409,Bottlenose,Leo,M,29-Jul-2003,Jul,2003,CB,Dolphins Plus Bayside,Nicky,Alfonz,7
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Yar,F,03-Aug-2003,Aug,2003,CB,SeaWorld Orlando,Tasha,Duncan,50
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Yoshe,F,15-Aug-2003,Aug,2003,CB,SeaWorld Orlando,Mimi,Belle,14
+Gulfarium Marine Adventure,Fort Walton Beach,FL,-86.593546,30.394468,Bottlenose,Cosmo,M,20-Aug-2003,Aug,2003,CB,SeaWorld Orlando,Nova,Belle,7
+Dolphin Connection,Duck Key,FL,-97.2253989,27.8307975,Bottlenose,Balla,M,01-Sep-2003,Sep,2003,CB,Dolphin Connection,Allie,Sebastian,4
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Kei,M,18-Oct-2003,Oct,2003,CB,Dolphin Quest Hawaii,Kona,Lono,17
+Brookfield Zoo,Brookfield,IL,-87.8357137,41.8328916,Bottlenose,Noelani,F,30-Oct-2003,Oct,2003,CB,Brookfield Zoo,Tapeko,Lucky,7
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Nani,F,11-Nov-2003,Nov,2003,CB,Dolphin Quest Hawaii,Poliahu,Lono,17
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,"Pilot, Short-fin",Argo,M,10-Jan-2004,Jan,2004,RR,"Moriya coast, Japan",Wild,Wild,46
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Briland,M,17-Mar-2004,Mar,2004,CB,Dolphin Experience,Cocoon,Scarab,17
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Nate,M,19-Mar-2004,Mar,2004,CB,Discovery Cove,Natalie,Scotia,22
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Kaylee,F,21-Mar-2004,Mar,2004,CB,Discovery Cove,Clipper,Scotia,46
+Dolphin Connection,Duck Key,FL,-97.2253989,27.8307975,Bottlenose,Tatem,M,08-Apr-2004,Apr,2004,CB,Dolphin Quest Bermuda,Caliban,Khyber,4
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Lily,F,09-Apr-2004,Apr,2004,CB,Dolphin Quest Bermuda,Cirrus,Khyber,14
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Whipper,M,28-Apr-2004,Apr,2004,CB,U.S. Navy,Snapper,Ekahi,81
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Dexter,M,07-May-2004,May,2004,CB,Discovery Cove,Dixie,Lester,50
+Dolphins Plus Bayside,Key Largo,FL,-80.4189979,25.1190409,Bottlenose,Nica,F,02-Jun-2004,Jun,2004,CB,Dolphins Plus Oceanside,Jessica,Kimbit,7
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Fiji,M,25-Jun-2004,Jun,2004,CB,Dolphins Plus Oceanside,Squirt,Fonzie,8
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Dot,F,06-Jul-2004,Jul,2004,CB,SeaWorld Orlando,Dash,Duncan,46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Venus,F,14-Jul-2004,Jul,2004,CB,SeaWorld San Diego,Cometta,Crunch,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Lark,F,30-Jul-2004,Jul,2004,CB,U.S. Navy,Mu,Ekahi,81
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Scott,M,18-Aug-2004,Aug,2004,CB,SeaWorld Orlando,Griffith,Duncan,50
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Bella,F,01-Sep-2004,Sep,2004,CB,Six Flags Discovery Kingdom,Chelsea,Merlin,14
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Rough-toothed,Doris,F,27-Sep-2004,Sep,2004,RR,"Port St Joe, FL",Wild,Wild,22
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Rough-toothed,Ivan,M,27-Sep-2004,Sep,2004,RR,"Cape San Blas, FL",Wild,Wild,22
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Salvador,M,28-Sep-2004,Sep,2004,CB,Dolphin Experience,Robala,Scarab,17
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Kalia,F,21-Dec-2004,Dec,2004,CB,SeaWorld San Diego,Kasatka,Keet,46
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Backcross,Kawaili'kai,F,23-Dec-2004,Dec,2004,CB,Sea Life Park,Keikaimalu,Mikioi?,17
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Rough-toothed,Largo,F,03-Mar-2005,Mar,2005,RR,"Marathon, FL",Wild,Wild,22
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Backcross,Aries,F,28-Mar-2005,Mar,2005,CB,Discovery Cove,Astra,C.J.,46
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Rough-toothed,Astro,M,18-Apr-2005,Apr,2005,RR,"Surfside, TX",Wild,Wild,22
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Maia,F,06-May-2005,May,2005,CB,Gulf World Marine Park,Cola,Lightning,22
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Minnow?,F,07-May-2005,May,2005,CB,U.S. Navy,Mako,Spetz,81
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Luna,F,24-May-2005,May,2005,CB,Gulf World Marine Park,Sandy,Lightning,22
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Bugs,F,14-Jun-2005,Jun,2005,CB,SeaWorld Orlando,Bunny,Hekili,46
+National Aquarium,Baltimore,MD,-76.6083984,39.2853928,Bottlenose,Beau,M,27-Jun-2005,Jun,2005,CB,National Aquarium,Nani,Bob,7
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,KAN,M,28-Jun-2005,Jun,2005,CB,U.S. Navy,April,Nihoa,81
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Beluga,Maple,F,02-Jul-2005,Jul,2005,CB,Marineland Canada,Priscilla,???,17
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Stella,F,14-Jul-2005,Jul,2005,CB,SeaWorld Orlando,Starkey,Hekili,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Potter,M,15-Jul-2005,Jul,2005,CB,SeaWorld Orlando,Lily,Hekili,50
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Osbourne,M,05-Aug-2005,Aug,2005,CB,SeaWorld San Antonio,Nacha,Gilly,11
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Jackson,M,18-Aug-2005,Aug,2005,CB,SeaWorld Orlando,Kendall,Duffy,50
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""MAA""",F,10-Sep-2005,Sep,2005,CB,U.S. Navy,Slooper,???,81
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Mattie,F,04-Oct-2005,Oct,2005,CB,Six Flags Discovery Kingdom,Sadie,Merlin,14
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Sofi,F,06-Oct-2005,Oct,2005,CB,SeaWorld San Diego,Sandy,Sparky,11
+Brookfield Zoo,Brookfield,IL,-87.8357137,41.8328916,Bottlenose,Allison,F,03-Nov-2005,Nov,2005,CB,Brookfield Zoo,Tapeko,Hastings,7
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Calypso,F,08-Nov-2005,Nov,2005,CB,SeaWorld Orlando,Calli,Hekili,46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Captain,F,17-Nov-2005,Nov,2005,CB,SeaWorld San Diego,Beaker,Crunch,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Killer Whale,Trua,M,23-Nov-2005,Nov,2005,CB,SeaWorld Orlando,Takara,Taku,50
+Clearwater Marine Aquarium,Clearwater,FL,-82.8191129,27.9768545,Bottlenose,Winter,F,10-Dec-2005,Dec,2005,RR,"Mosquito Lagoon, FL",Wild,Wild,4
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Austin?,M,18-Dec-2005,Dec,2005,CB,U.S. Navy,Shasta,Nihoa,81
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Comet,M,20-Dec-2005,Dec,2005,RR,"Lynn Haven, FL",Wild,Wild,22
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""SCT""",M,28-Mar-2006,Mar,2006,CB,U.S. Navy,Cherrie,???,81
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Adela,F,17-May-2006,May,2006,CB,Sea Life Park,Laka,???,17
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,Beluga,Bella,F,17-Jul-2006,Jul,2006,CB,Shedd Aquarium,Puiji,Naluark,14
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Sasha,F,01-Aug-2006,Aug,2006,CB,SeaWorld Orlando,Tasha,Hekili,50
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,"White-sided, Pacific",Ohana,F,12-Aug-2006,Aug,2006,CB,Miami Seaquarium,Loke,Li'i,42
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Zo,F,10-Sep-2006,Sep,2006,CB,Miami Seaquarium,Samantha,J.J.,30
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Killer Whale,Nalani,F,18-Sep-2006,Sep,2006,CB,SeaWorld Orlando,Katina,Taku,50
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Cajun,M,18-Oct-2006,Oct,2006,RR,"Grand Isle, LA",Wild,Wild,22
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Cayo,F,13-Dec-2006,Dec,2006,CB,Dolphin Research Center,Merina,"A.I., Noel",26
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Gypsi,F,06-Jan-2007,Jan,2007,CB,Dolphin Research Center,Tursi,Rainbow,26
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Jax,M,13-Feb-2007,Feb,2007,RR,"Jacksonville, FL",Wild,Wild,26
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Ho'olono,M,16-Feb-2007,Feb,2007,CB,Hawaii Institute of Marine Biology,B.J.,Boris,17
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Killer Whale,Malia,F,12-Mar-2007,Mar,2007,CB,SeaWorld Orlando,Taima,Tilikum,50
+Texas State Aquarium,Corpus Christi,TX,-97.391973,27.813874,Bottlenose,Schooner,M,19-Mar-2007,Mar,2007,CB,Discovery Cove,Clipper,Lester,4
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Alice,F,07-Apr-2007,Apr,2007,RR,"Corpus Christi, TX, US",Wild,Wild,42
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Maui,F,20-Apr-2007,Apr,2007,CB,Discovery Cove,Roxy,Capricorn,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Frankie,F,11-May-2007,May,2007,CB,SeaWorld San Diego,Steime,Stein,46
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Luna,F,23-May-2007,May,2007,CB,Dolphin Quest Bermuda,Cirrus,"A.I., Stein",17
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Catalina,F,04-Jun-2007,Jun,2007,CB,Discovery Cove,Thelma,Capricorn,46
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Bottlenose,Bermudiana,F,06-Jun-2007,Jun,2007,CB,Dolphin Quest Bermuda,Caliban,Crunch,17
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Cisco,M,07-Jun-2007,Jun,2007,CB,SeaWorld San Antonio,Puka,Gilly,42
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Bowie?,M,09-Jun-2007,Jun,2007,CB,U.S. Navy,Hornet,Hapa,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""CSH""",M,09-Jun-2007,Jun,2007,CB,U.S. Navy,Blue,Tacoma,81
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Ansley,M,11-Jun-2007,Jun,2007,CB,SeaWorld San Antonio,Ping,Gilly,42
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Beluga,Oliver,M,23-Jun-2007,Jun,2007,CB,SeaWorld San Antonio,Martina,Nanuq,50
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Crockett,M,24-Jun-2007,Jun,2007,CB,U.S. Navy,Snapper,Nihoa,81
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Beluga,Grayson,M,26-Jun-2007,Jun,2007,CB,SeaWorld San Antonio,Martha,Nanuq,50
+Texas State Aquarium,Corpus Christi,TX,-97.391973,27.813874,Bottlenose,Liko,M,26-Jun-2007,Jun,2007,CB,Discovery Cove,Latoya,Capricorn,4
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Nueces,F,12-Jul-2007,Jul,2007,CB,SeaWorld San Antonio,Nikki,Gilly,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Damara,F,11-Aug-2007,Aug,2007,CB,SeaWorld Orlando,Dash,Sebastian,50
+Dolphins Plus Bayside,Key Largo,FL,-80.4189979,25.1190409,Bottlenose,Julie,F,19-Aug-2007,Aug,2007,CB,Dolphins Plus Oceanside,Dinghy,Little Bit,7
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Ige,M,06-Sep-2007,Sep,2007,CB,Discovery Cove,Natalie,Akai,50
+National Aquarium,Baltimore,MD,-76.6083984,39.2853928,Bottlenose,Foster,M,09-Sep-2007,Sep,2007,CB,National Aquarium,Jade,Sebastian,7
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Hali'a,F,09-Oct-2007,Oct,2007,CB,Dolphin Quest Hawaii,Kona,"A.I., Sparky",12
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Gala,F,12-Oct-2007,Oct,2007,CB,SeaWorld Orlando,Griffith,Hekili,46
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Mavrick,M,03-Nov-2007,Nov,2007,CB,Six Flags Discovery Kingdom,Chelsea,Merlin,14
+Dolphin Quest Oahu,Honolulu,HI,-157.773445,21.271999,Bottlenose,Hua,M,23-Mar-2008,Mar,2008,CB,Dolphin Quest Hawaii,Pele,Lono,6
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Luna,F,04-May-2008,May,2008,CB,Discovery Cove,Marea,Lester,46
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Brie,F,07-Jun-2008,Jun,2008,CB,SeaWorld San Antonio,Mattie,Hacksaw,42
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Bottlenose,Wahoo,F,11-Jun-2008,Jun,2008,CB,U.S. Navy,Mu,???,8
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Tocoi,F,11-Jun-2008,Jun,2008,CB,Marineland Florida,Roxy,Alvin,14
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Aqe,M,17-Jun-2008,Jun,2008,CB,Marineland Florida,Betty III,Alvin,14
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Grace,F,11-Jul-2008,Jul,2008,CB,Dolphins Plus Oceanside,Sarah,Little Bit,8
+National Aquarium,Baltimore,MD,-76.6083984,39.2853928,Bottlenose,Bayley,F,27-Jul-2008,Jul,2008,CB,National Aquarium,Chesapeake,Chinook,7
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Beluga,Qinu,F,31-Jul-2008,Jul,2008,CB,SeaWorld San Antonio,Sikku,Nanuq,17
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Lotus,F,27-Aug-2008,Aug,2008,CB,Dolphins Plus Oceanside,Squirt,Bob,8
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Bella,F,06-Sep-2008,Sep,2008,CB,Mirage Dolphin Habitat,Huf-n-Puf,Lightning,11
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Toby,M,21-Nov-2008,Nov,2008,RR,"Texas, Gulf Coast",Wild,Wild,8
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Cocoa,F,28-Nov-2008,Nov,2008,CB,SeaWorld San Diego,Tobie,Crunch,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Seaweed,M,29-Mar-2009,Mar,2009,CB,U.S. Navy,Shasta,???,81
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Kailani,F,03-Jun-2009,Jun,2009,CB,Discovery Cove,Coral,Akai,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Brigg,M,06-Jun-2009,Jun,2009,CB,Discovery Cove,Clipper,Capricorn,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Kyla,F,07-Jun-2009,Jun,2009,CB,Discovery Cove,Copper,Capricorn,46
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Turk,M,09-Jun-2009,Jun,2009,CB,SeaWorld Orlando,Tasha,Hekili,22
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Kali,F,10-Jun-2009,Jun,2009,CB,SeaWorld San Diego,Malibu,Belle,46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Koa,F,13-Jun-2009,Jun,2009,CB,SeaWorld San Diego,Sadie,Bodine,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Soleil,F,19-Jun-2009,Jun,2009,CB,SeaWorld Orlando,Starkey,Hekili,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Amara,F,22-Jun-2009,Jun,2009,CB,Discovery Cove,Astra,Akai,50
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Phantom,M,01-Jul-2009,Jul,2009,CB,U.S. Navy,Slooper,???,81
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Roka,M,11-Jul-2009,Jul,2009,CB,Discovery Cove,Yar,Lester,50
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Avalon,F,26-Jul-2009,Jul,2009,CB,SeaWorld San Diego,Beaker,Crunch,46
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Rough-toothed,Kitana,F,19-Aug-2009,Aug,2009,RR,"Cape San Blas, FL",Wild,Wild,22
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Skipper,M,24-Aug-2009,Aug,2009,CB,Theater of the Sea,Nikki,???,8
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,"White-sided, Pacific",Bolt,M,13-Sep-2009,Sep,2009,CB,SeaWorld San Antonio,Catalina,"A.I., Arrow",42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Neelee,F,17-Sep-2009,Sep,2009,CB,SeaWorld San Antonio,Nacha,"A.I., Hacksaw",42
+Long Marine Lab,Santa Cruz,CA,-122.064882,36.949228,Bottlenose,Donley,M,03-Nov-2009,Nov,2009,RR,"Mustang Island, TX, US",Wild,Wild,3
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Delta,M,22-Nov-2009,Nov,2009,CB,Dolphin Research Center,Aleta,Kibby,26
+Georgia Aquarium,Atlanta,GA,-84.3947481,33.7630731,Beluga,Nunavik,M,14-Dec-2009,Dec,2009,CB,Shedd Aquarium,Puiji,Naluark,17
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Gus,M,28-Dec-2009,Dec,2009,CB,SeaWorld Orlando,Griffith,???,22
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Killer Whale,Sakari,F,07-Jan-2010,Jan,2010,CB,SeaWorld San Antonio,Takara,Tilikum,42
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Luna,F,29-Jan-2010,Jan,2010,CB,Dolphin Research Center,Pandora,A.J.,26
+Sea Life Park,Waimanalo,HI,-157.665812,21.31534,Bottlenose,Nalu,M,27-Feb-2010,Feb,2010,CB,Sea Life Park,Laka,Kaleo,17
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Cobalt,?,19-Mar-2010,Mar,2010,CB,Miami Seaquarium,Panama,Indigo,30
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Squirt,?,13-Apr-2010,Apr,2010,CB,Miami Seaquarium,Skye,Sundance,30
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Hurlee,M,20-Apr-2010,Apr,2010,CB,Discovery Cove,Thelma,Akai,50
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Axl,M,16-May-2010,May,2010,CB,Discovery Cove,Rose,Hutch,50
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Ipanema,F,17-May-2010,May,2010,CB,Discovery Cove,Natalie,Akai,46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Beluga,Atla,F,23-Jun-2010,Jun,2010,CB,SeaWorld San Antonio,Luna,"A.I., Nanuq",46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Beluga,Pearl,F,23-Jun-2010,Jun,2010,CB,SeaWorld San Diego,Ruby,Nanuq,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-861,M,30-Jun-2010,Jun,2010,CB,U.S. Navy,Maddie,???,81
+Dolphins Plus Bayside,Key Largo,FL,-80.4189979,25.1190409,Bottlenose,Zoe,F,04-Jul-2010,Jul,2010,CB,Dolphins Plus Oceanside,Jessica,Bob,7
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Haley,F,23-Jul-2010,Jul,2010,CB,SeaWorld Orlando,Bossa,Jag,50
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Striker,M,23-Aug-2010,Aug,2010,CB,Gulf World Marine Park,Brinnon,Sebastian,22
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Jett,M,31-Aug-2010,Aug,2010,CB,Gulf World Marine Park,Sandy,Sebastian,22
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Louie,M,02-Sep-2010,Sep,2010,RR,"Fourchon Beach, LA",Wild,Wild,26
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Killer Whale,Makaio,M,09-Oct-2010,Oct,2010,CB,SeaWorld Orlando,Katina,Tilikum,50
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Capri,F,21-Oct-2010,Oct,2010,CB,SeaWorld San Antonio,Ping,"A.I., Gilly",42
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Gambit,M,05-Nov-2010,Nov,2010,CB,Dolphin Research Center,Tursi,Kibby,26
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Ringo,?,13-Nov-2010,Nov,2010,CB,Miami Seaquarium,Samantha,Noel,30
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Flagler,M,15-Nov-2010,Nov,2010,CB,Dolphin Research Center,Merina,"A.I., Stormy",26
+Clearwater Marine Aquarium,Clearwater,FL,-82.8191129,27.9768545,Bottlenose,Hope,F,11-Dec-2010,Dec,2010,RR,"Indian River Lagoon, FL",Wild,Wild,4
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Taz,M,13-Jan-2011,Jan,2011,RR,"Sanibel Island, FL, US",Wild,Wild,10
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Roux Brees,M,29-Jan-2011,Jan,2011,RR,"Grand Isle, LA",Wild,Wild,22
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,Kodiak,M,29-May-2011,May,2011,CB,U.S. Navy,Mako,???,81
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,Isaac,M,01-Jun-2011,Jun,2011,CB,Dolphins Plus Bayside,Samantha,Kimbit,8
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""LNC""",M,01-Jun-2011,Jun,2011,CB,U.S. Navy,Pele,???,81
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,K2,M,03-Jul-2011,Jul,2011,CB,Mirage Dolphin Habitat,Duchess,Lightning,11
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Blyss,F,16-Jul-2011,Jul,2011,CB,SeaWorld San Antonio,Mattie,Hacksaw,42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Koko,F,17-Jul-2011,Jul,2011,CB,SeaWorld San Antonio,Yoyo,Kai,42
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Aurora,F,26-Jul-2011,Jul,2011,CB,SeaWorld Orlando,Ariel,???,46
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Ipo,M,20-Aug-2011,Aug,2011,CB,Dolphin Quest Hawaii,Iwa,Nimbus,12
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,MiraMar,M,20-Aug-2011,Aug,2011,CB,Mirage Dolphin Habitat,Huf-n-Puf,Lightning,11
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Connie,F,23-Aug-2011,Aug,2011,CB,SeaWorld San Diego,Cometta,Crunch,46
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""MEM""",M,02-Sep-2011,Sep,2011,CB,U.S. Navy,Blue,???,81
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Hemingway,M,05-Sep-2011,Sep,2011,CB,Marineland Florida,Dazzle,Alvin,10
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,B.B.,F,13-Sep-2011,Sep,2011,CB,Dolphins Plus Oceanside,Dinghy,L.B.,8
+Gulfarium Marine Adventure,Fort Walton Beach,FL,-86.593546,30.394468,Bottlenose,Chopper,M,21-Sep-2011,Sep,2011,CB,Gulf World Marine Park,Maia,Sebastian,7
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""MGU""",M,29-Sep-2011,Sep,2011,CB,U.S. Navy,Mu,???,81
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Cayman,?,05-Oct-2011,Oct,2011,CB,Miami Seaquarium,Bimini,???,30
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""KNG""",U,07-Jan-2012,Jan,2012,CB,U.S. Navy,Opai,???,81
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Bottlenose,Apollo,M,06-Mar-2012,Mar,2012,RR,"Churchill Oaks, LA",Wild,Wild,8
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Azul,M,13-May-2012,May,2012,CB,Miami Seaquarium,Rioux,J.J.,30
+Inst. for Marine Mammal Studies,Gulfport,MS,-89.0187972,30.4204487,Bottlenose,Turner,M,20-May-2012,May,2012,RR,"Three Sisters Is., FL, US",Wild,Wild,8
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,"White-sided, Pacific",Sagu,M,28-May-2012,May,2012,CB,Shedd Aquarium,Piquet,Li'i,14
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Starla,F,30-Jun-2012,Jun,2012,CB,SeaWorld Orlando,Starkey,Nate,46
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Orin,M,12-Jul-2012,Jul,2012,CB,Indianapolis Zoo,China,Jett,10
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,"""PCL""",M,27-Jul-2012,Jul,2012,CB,U.S. Navy,Naia,???,81
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Tashi,M,13-Aug-2012,Aug,2012,CB,Dolphins Plus Oceanside,Squirt,Bob,8
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,Beluga,Kimalu,F,27-Aug-2012,Aug,2012,CB,Shedd Aquarium,Mauyak,Naluark,14
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,"Pilot, Short-fin",Ace,M,01-Sep-2012,Sep,2012,RR,"Avalon Beach, FL",Wild,Wild,50
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,"Pilot, Short-fin",Ava,F,01-Sep-2012,Sep,2012,RR,"Avalon Beach, FL",Wild,Wild,50
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,"Pilot, Short-fin",Piper,F,01-Sep-2012,Sep,2012,RR,"Avalon Beach, FL",Wild,Wild,50
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Lehua,F,17-Sep-2012,Sep,2012,CB,Dolphin Quest Hawaii,Keo,Nimbus,12
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Malu,M,26-Sep-2012,Sep,2012,CB,Dolphin Quest Hawaii,Pele,Nimbus,12
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Nahele,M,15-Oct-2012,Oct,2012,CB,Dolphin Quest Hawaii,Kona,Nimbus,12
+Long Marine Lab,Santa Cruz,CA,-122.064882,36.949228,Bottlenose,Rain,M,05-Nov-2012,Nov,2012,CB,SeaWorld San Diego,Cascade,Razzle?,3
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Bimini,F,30-Nov-2012,Nov,2012,CB,Discovery Cove,Clipper,"A.I., Gilly",46
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Reese,M,03-Dec-2012,Dec,2012,CB,Dolphin Research Center,Santini,"A.I., Brisby",26
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Makani,M,14-Feb-2013,Feb,2013,CB,SeaWorld San Diego,Kasatka,"A.I., Kshamenk",46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Finn,M,25-Feb-2013,Feb,2013,CB,Discovery Cove,Kendall,Lester,46
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Capri,F,16-May-2013,May,2013,CB,Gulf World Marine Park,Sandy,Zac,22
+Gulfarium Marine Adventure,Fort Walton Beach,FL,-86.593546,30.394468,Bottlenose,Zeke,M,22-May-2013,May,2013,CB,Gulf World Marine Park,Indie,Zac,7
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Haven,F,24-May-2013,May,2013,CB,SeaWorld San Antonio,Alice,"A.I., Belle",42
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Mako,M,03-Jun-2013,Jun,2013,CB,Gulf World Marine Park,Brinnon,Zac,22
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Gertrude,F,21-Jun-2013,Jun,2013,CB,SeaWorld Orlando,Griffith,???,46
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Samson,M,09-Jul-2013,Jul,2013,CB,SeaWorld San Antonio,Luna,Imaq,42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Nala,F,24-Aug-2013,Aug,2013,CB,SeaWorld San Antonio,Nikki,"A.I., Razzle",42
+Brookfield Zoo,Brookfield,IL,-87.8357137,41.8328916,Bottlenose,Merlin,M,16-Oct-2013,Oct,2013,CB,Brookfield Zoo,Tapeko,Chinook,7
+Brookfield Zoo,Brookfield,IL,-87.8357137,41.8328916,Bottlenose,Magic,M,28-Oct-2013,Oct,2013,CB,Brookfield Zoo,Spree,Chinook,7
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Sparrow,F,01-Nov-2013,Nov,2013,CB,SeaWorld Orlando,Yar,Nate,46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Tinker,F,02-Nov-2013,Nov,2013,CB,SeaWorld Orlando,Tasha,???,50
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Diva,F,06-Nov-2013,Nov,2013,CB,Dolphin Research Center,Aleta,"A.I., Gilly",26
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Windley,F,12-Nov-2013,Nov,2013,CB,Dolphin Research Center,Merina,"A.I., Fathom",26
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Lanikai,F,12-Nov-2013,Nov,2013,CB,SeaWorld San Diego,Kolohe,Crunch,46
+Theater of the Sea,Islamorada,FL,-71.5627531,41.3770733,Bottlenose,Crystal,F,25-Nov-2013,Nov,2013,CB,Theater of the Sea,Nikki,"A.I., Belle",8
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Killer Whale,Kamea,F,06-Dec-2013,Dec,2013,CB,SeaWorld San Antonio,Takara,"A.I, Kshamenk",42
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Prim,F,12-Feb-2014,Feb,2014,CB,Discovery Cove,Rose,"A.I., Scotia",46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Isadora,F,18-Mar-2014,Mar,2014,CB,Discovery Cove,Natalie,"A.I., Belle",46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Nigel,M,29-Mar-2014,Mar,2014,CB,SeaWorld Orlando,Naia,???,50
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Archer,M,31-Mar-2014,Mar,2014,CB,SeaWorld Orlando,Ariel,???,50
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Calypso,F,11-Apr-2014,Apr,2014,CB,Miami Seaquarium,Panama,Sundance,30
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Coquina,F,22-May-2014,May,2014,CB,Marineland Florida,Dazzle,Zac,14
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Yuri,F,03-Jun-2014,Jun,2014,CB,SeaWorld San Antonio,Yoyo,Scotia,42
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,"Spotted, Atlantic",Summer,F,04-Jul-2014,Jul,2014,RR,"Redington Beach, FL",Wild,Wild,26
+Island Dolphin Care,Key Largo,FL,-80.44212519999999,25.0834223,Bottlenose,Dalai,F,02-Sep-2014,Sep,2014,CB,Dolphins Plus Oceanside,Squirt,???,8
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Gemini,F,06-Sep-2014,Sep,2014,CB,Miami Seaquarium,Samantha,???,30
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-897,M,04-Oct-2014,Oct,2014,CB,U.S. Navy,Mu,???,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-898,F,08-Oct-2014,Oct,2014,CB,U.S. Navy,Pele,???,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-899,U,12-Oct-2014,Oct,2014,CB,U.S. Navy,Hornet,???,81
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Bodie,M,17-Oct-2014,Oct,2014,CB,SeaWorld San Diego,Sadie,Bodine,46
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Killer Whale,Amaya,F,02-Dec-2014,Dec,2014,CB,SeaWorld San Diego,Kalia,Ulises,46
+Six Flags Discovery Kingdom,Vallejo,CA,-122.233104,38.136376,Bottlenose,Apollo,M,05-Feb-2015,Feb,2015,CB,Six Flags Discovery Kingdom,Yoshe,"A.I., Deke",14
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Reef,F,07-Feb-2015,Feb,2015,CB,Discovery Cove,Coral,"A.I., Kenobi",46
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Atocha,F,21-Feb-2015,Feb,2015,CB,Dolphin Research Center,Pandora,"A.I., Pacino",26
+Dolphin Research Center,Grassy Key,FL,-80.945488,24.767084,Bottlenose,Cacica,F,24-Feb-2015,Feb,2015,CB,Dolphin Research Center,Calusa,"A.I., Razzle",26
+Indianapolis Zoo,Indianapolis,IN,-86.18073,39.767442,Bottlenose,Calypso,F,24-Apr-2015,Apr,2015,CB,Indianapolis Zoo,Kalei,Kimo,10
+Gulfarium Marine Adventure,Fort Walton Beach,FL,-86.593546,30.394468,Bottlenose,Kaya,F,29-Apr-2015,Apr,2015,CB,Gulfarium,Lily,Sebastian,7
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,"White-sided, Pacific",Makoa,M,01-Jun-2015,Jun,2015,CB,Shedd Aquarium,Piquet,Li'i,14
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-900,F,10-Jun-2015,Jun,2015,CB,U.S. Navy,Snapper,???,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-901,M,15-Jun-2015,Jun,2015,CB,U.S. Navy,Mako,???,81
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Rough-toothed,Stan,M,21-Jun-2015,Jun,2015,RR,"Clearwater Beach, FL",Wild,Wild,22
+Dolphins Plus Bayside,Key Largo,FL,-80.4189979,25.1190409,Bottlenose,Luna,F,14-Jul-2015,Jul,2015,CB,Dolphins Plus Bayside,Samantha,Kimbit,7
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,"White-sided, Pacific",Ipo,M,18-Jul-2015,Jul,2015,CB,Miami Seaquarium,Loke,Li'i,14
+Dolphins Plus Bayside,Key Largo,FL,-80.4189979,25.1190409,Bottlenose,Nyla,F,24-Jul-2015,Jul,2015,CB,Dolphins Plus Bayside,Nica,Alfonz,7
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Boomer,M,02-Sep-2015,Sep,2015,CB,Marineland Florida,Shaka,Sunny,14
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-902,M,04-Sep-2015,Sep,2015,CB,U.S. Navy,Baily,???,81
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Zip,M,22-Sep-2015,Sep,2015,RR,"South Padre Is., TX, US",Wild,Wild,42
+SeaWorld San Diego,San Diego,CA,-117.226598,32.764876,Bottlenose,Sara,F,18-Oct-2015,Oct,2015,CB,SeaWorld San Diego,Tobie,"A.I., Fathom",46
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Soleil,F,08-Feb-2016,Feb,2016,CB,Gulf World Marine Park,Luna,Nate,22
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Skye,F,23-Feb-2016,Feb,2016,CB,Discovery Cove,Astra,"A.I., Kenobi",46
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Delilah,F,21-Mar-2016,Mar,2016,CB,Discovery Cove,Damara,Alpha,50
+Shedd Aquarium,Chicago,IL,-87.6139657,41.8675866,"White-sided, Pacific",Kukdlaa,M,18-Apr-2016,Apr,2016,CB,Shedd Aquarium,Katrl,Li'i,14
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TT-903,F,01-May-2016,May,2016,CB,U.S. Navy,Coho,???,81
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Eden,F,12-May-2016,May,2016,CB,Discovery Cove,Gala,Alpha?,46
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Oli,M,08-Jul-2016,Jul,2016,CB,Marineland Florida,Lily,Sunny,14
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Kona,F,03-Aug-2016,Aug,2016,CB,Discovery Cove,Roxy,Rascal,46
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Backcross,Titan,M,06-Aug-2016,Aug,2016,CB,Discovery Cove,Calypso,C.J.,46
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Kenai,M,11-Aug-2016,Aug,2016,CB,SeaWorld San Antonio,Luna,Imaq,42
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Kekoa,M,02-Sep-2016,Sep,2016,CB,Dolphin Quest Hawaii,Kona,???,12
+SeaWorld Orlando,Orlando,FL,-81.4597,28.409822,Bottlenose,Storm,F,02-Sep-2016,Sep,2016,CB,Discovery Cove,Haley,???,50
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,Tug,M,25-Sep-2016,Sep,2016,CB,Dolphins Plus Oceanside,Dinghy,Alfonz,8
+Marineland Florida,St. Augustine,FL,-81.212787,29.668709,Bottlenose,Surge,M,29-Sep-2016,Sep,2016,CB,Marineland Florida,Roxy,Sunny,14
+Dolphin Quest Hawai'i,Waikoloa Village,HI,-155.889022,19.925626,Bottlenose,Haukea,F,20-Nov-2016,Nov,2016,CB,Dolphin Quest Hawaii,Pele,???,12
+Dolphins Plus Oceanside,Key Largo,FL,-80.441986,25.084293,Bottlenose,Jett,M,24-Nov-2016,Nov,2016,CB,Dolphins Plus Oceanside,Jessica,Alfonz,8
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TX-786,U,06-Jun-2017,Jun,2017,CB,U.S. Navy,Naia,???,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TX-808,U,13-Jun-2017,Jun,2017,CB,U.S. Navy,Hornet,???,81
+U.S. Navy Marine Mammal Program,San Diego,CA,-117.216028,32.727111,Bottlenose,TX-799b,U,18-Jun-2017,Jun,2017,CB,U.S. Navy,Annie,???,81
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Coco,F,17-Jul-2017,Jul,2017,CB,Mirage Dolphin Habitat,Huf-n-Puf,Lightning,11
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Innik,M,17-Sep-2017,Sep,2017,CB,SeaWorld San Antonio,Crissy,Imaq,42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Bottlenose,Rimmy,F,18-Sep-2017,Sep,2017,RR,"McFaddin Beach, TX",Wild,Wild,42
+SeaWorld San Antonio,San Antonio,TX,-98.69931509999999,29.4584176,Beluga,Tyonek,M,30-Sep-2017,Sep,2017,RR,"Cook Inlet, Alaska",Wild,Wild,42
+Gulf World Marine Park,Panama City Beach,FL,-85.86718599999999,30.2111442,Bottlenose,Samira,F,08-Oct-2017,Oct,2017,RR,"Princess Beach, FL",Wild,Wild,22
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,Bottlenose,Boo,F,30-Oct-2017,Oct,2017,CB,Miami Seaquarium,Panama,Sundance,30
+Miami Seaquarium,Miami,FL,-80.164832,25.734428,"White-sided, Pacific",?'s Calf,M,30-Jun-2018,Jun,2018,CB,Miami Seaquarium,???,???,30
+Mirage Dolphin Habitat,Las Vegas,NV,-115.1784079,36.1203291,Bottlenose,Karli,F,11-Aug-2018,Aug,2018,CB,Mirage Dolphin Habitat,Sofi,"A.I., Kenobi",11
+Clearwater Marine Aquarium,Clearwater,FL,-82.8191129,27.9768545,Bottlenose,P.J.,F,21-Aug-2018,Aug,2018,RR,"Old Tampa Bay, FL",Wild,Wild,4
+Gulf World,Panama City Beach,FL,-85.867225,30.211216,Rough-toothed,Dagny,F,12-Oct-2018,Oct,2018,RR,"Biloxi, MS",Wild,Wild,1
+Discovery Cove,Orlando,FL,-81.462435,28.405192,Bottlenose,Stella’s Calf,F,09-May-2019,May,2019,CB,Discovery Cove,Stella,???,46
