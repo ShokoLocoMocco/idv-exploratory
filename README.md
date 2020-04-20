@@ -1,10 +1,10 @@
 ## IDV Project 1: Exploratory Visualization
 
-- Class PDF: [DATA73200_ Week 6 _ Hierarchical Data](https://data73200fry.commons.gc.cuny.edu/files/2020/03/DATA73200_-Week-6-_-Hierarchical-Data.pdf)
-- [Overall assignment details](https://data73200fry.commons.gc.cuny.edu/project-1-exploratory-visualization/)
-- [Design process specifications and phases](https://data73200fry.commons.gc.cuny.edu/design-process-specifications/)
+[Assignment](https://data73200fry.commons.gc.cuny.edu/project-2-narrative-visualization/)
 
-Phase | Due Date | View
+Phase | View
 --- | --- | ---
-**Prospectus, Sketches, Mockups** | March 19, 2020 | [link](prospectus-sketches)
-**Architecture, Final Data, First Iteration** |  March 26, 2020 | link
+**Prospectus, Sketches, Mockups** | [link](prospectus-sketches)
+**Architecture** | [link](prospectus-sketches/architecture.png)
+**Data** | [link](data)
+**Exploratory Visualization | link
