@@ -7,4 +7,4 @@ Phase | View
 **Prospectus, Sketches, Mockups** | [link](prospectus-sketches)
 **Architecture** | [link](prospectus-sketches/architecture.png)
 **Data** | [link](data)
-**Exploratory Visualization | link
+**Exploratory Visualization** | link
