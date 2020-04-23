@@ -17,37 +17,35 @@ I'll use R to shape the data for this.
 
 ## Sketch
 
-<img src="https://github.com/cheje/idv-exploratory/raw/master/sketches/sketch.png" width="400">
+<img src="https://github.com/cheje/idv-exploratory/raw/master/prospectus-sketches/sketch.png" width="400">
 
 As shown in the sketch, I initially narrowed down the chart types to bar, table, treemap, map and line. But after deciding to use just the data from 2019, I think I will focus on making a bar chart, table and map or treemap. I am leaning toward a map since this is about the 50 states and it would be visually different from a treemap which would continue the "boxy" appearance of a bar chart and table. The map and bar chart would likely plot the aggregated data.
 
-## Mockups
+## Mockup
 
 <img src="https://github.com/cheje/idv-exploratory/raw/master/prospectus-sketches/mockup.png" width="600">
 
 1. **Map**
 
-- Interactions expected by user:
-- Interactions to enhance experience:
-- Context:
+- Interactions expected by user: tooltip when hovering over state that lists state and number of hate groups, per capita number
+- Interactions to enhance experience: click on state to reveal more information via adjacent visuals
+- Context: gives geographic overview of hate groups across the country using color to visualize which states have most hate groups per capita
 
 2. **Bar chart**
 
-- Interactions expected by user:
-- Interactions to enhance experience:
-- Context:
+- Context: aggregated overview of groups organized by ideology (bit easier to digest than a straight-up list of all the groups)
+- Interactions: list will appear from clicking a state so no further manipulation of the data would be done
 
 3. **Table**
 
-- Interactions expected by user:
-- Interactions to enhance experience:
-- Context:
+- Context: while other visualizations will be aggregations, the table will display the SPLC data as it originally appeared – list of all the hate groups along with their ideology and location
+- Interactions: no further interaction beyond table of groups appearing once state is clicked on, maybe way to sort columns alphabetically?
 
 ## Architecture
 
 <img src="https://github.com/cheje/idv-exploratory/raw/master/prospectus-sketches/architecture.png" width="400">
 
-## Data
+## [Data](../data)
 
 - Per capita number of hate groups by state (CSV) » map
 - Map of 50 states (GeoJSON)

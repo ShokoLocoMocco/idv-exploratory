@@ -19,7 +19,7 @@ body {
   /*grid-row-start: 1; /* start on row 1 */
   /*grid-row-end: span 2; /* span 2 rows */
   margin-left: -4em;
-  margin-top: -4em;
+  margin-top: -2em;
 }
 
 #barchart {
@@ -88,7 +88,11 @@ a:link, a:visited {
   font-size: 14px;
 }
 
-.groups {
+.columns {
+  text-align: left;
+}
+
+.hate-groups {
   text-align: left;
   font-size: 0.8em;
   font-weight: normal;

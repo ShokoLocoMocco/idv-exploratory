@@ -1,8 +1,7 @@
-## IDV Project 1: Exploratory Visualization
-### Data source
+## Data Source
 
-The nonprofit [Ceta-Base](https://www.cetabase.org) has compiled a database of cetaceans in captivity. For this project, the data contains just those marine mammals captive in the United States.
+The [Southern Poverty Law Center] has compiled a [database](https://www.splcenter.org/hate-map) of active hate groups in the U.S. since 2010. For the project, I am focusing on the recently released 2019 data.
 
-- [Database](https://www.cetabase.org/captive/cetacean/us-canada)
-- [Descriptions of last locations](https://www.cetabase.org/captive/cetacean/)
-- [Column descriptions](https://www.cetabase.org/site/guide)
+- `hg.csv`: The raw data for 2019 lists each hate group by city (if applicable) and state, along with ideology. For each state, I added the per capita number of groups.
+- `hg_ideology_across.csv`: Number of hate groups by ideology by state. This includes the same groups but in different locations within a state.
+- `usStates.json`: GeoJSON file of the 50 states for mapping.
