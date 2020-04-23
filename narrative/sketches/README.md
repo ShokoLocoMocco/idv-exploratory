@@ -1,6 +1,6 @@
 ## Prospectus
 
-For the narrative project, I would like to write about and visualize [Southern Poverty Law Center data](https://www.splcenter.org/hate-map) hate groups over the past decade. I used the same data in my exploratory assignment but this time I will focus on New York State. While the state on a per capita level is in the bottom 15, it nonetheless has more than 40 active groups as of 2019. Where are these groups located? What are the most frequent ideologies followed? Have the most active ideologies changed over the past decade? What might have triggered that to happen? How does NYC compare to the rest of the state? To figure this out, I’m thinking of doing some of these visualizations:
+For the narrative project, I would like to write about and visualize [Southern Poverty Law Center data](https://www.splcenter.org/hate-map) on hate groups over the past decade. I used the same data in my exploratory assignment but this time I will focus on New York State. While the state on a per capita level is in the bottom 15, it nonetheless has more than 40 active groups as of 2019. Where are these groups located? What are the most frequent ideologies followed? Have the most active ideologies changed over the past decade? What might have triggered that to happen? How does NYC compare to the rest of the state? To figure this out, I’m thinking of doing some of these visualizations:
 
 - Maps: US per capita, NYS group locations
 - Bar charts: In 2019, by ideologies (in %?) in US and NYS
