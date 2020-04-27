@@ -1,6 +1,6 @@
 ## IDV Project 1: Exploratory Visualization
 
-[Assignment](https://data73200fry.commons.gc.cuny.edu/project-2-narrative-visualization/)
+[Assignment](https://data73200fry.commons.gc.cuny.edu/project-1-exploratory-visualization/)
 
 Phase | View
 --- | ---

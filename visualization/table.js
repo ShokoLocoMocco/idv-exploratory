@@ -3,7 +3,8 @@ class Table {
   constructor(state, setGlobalState) {
     // this.width = window.innerWidth * 0.2;
     // this.margins = {top: 20, bottom:20, left:20, right:20};
-    this.duration = 500;
+
+    const columns = ["Group", "Ideology", "City"];
 
     this.table = d3
       .select("#table")
@@ -13,11 +14,13 @@ class Table {
       .append("thead")
       .append("tr")
       .selectAll("th")
-      .data(["Group", "Ideology", "City"])
+      .data(columns)
       .join("th")
       .text(d => d) // column names to appear
       .attr("class", "columns")
 
+    this.tableRows = this.table
+      .append("tbody")
   }
 
   draw(state, setGlobalState) {
@@ -29,32 +32,27 @@ class Table {
       "Ideology": d.ideology,
       "City": d.city
     }))
-    console.log(stateData);
+      console.log(stateData);
       console.log(tableStateData);
 
-
-      this.tableRows = this.table
-        .append("tbody")
-        .selectAll("tr")
-        .data(tableStateData)
-        .join("tr")
-
-      this.tableRows
-        .selectAll("td")
-        .data(d => Object.values(d))
-        // .join("td")
-        // .text(d => d)
-        //.attr("class", "groups")
-        .join(
-          enter =>
-            enter
-              .append("td")
-              .text(d => d)
-              .attr("class", "hate-groups"),
-            update => update,
-            exit => exit.remove())
-
-
+    this.tableRows
+      //.append("tbody")
+      .selectAll("tr")
+      .data(tableStateData)
+      .join("tr")
+      .selectAll("td")
+      .data(d => Object.values(d))
+      .join("td")
+      .text(d => d)
+      .attr("class", "hate-groups");
+      // .join(
+      //   enter =>
+      //     enter
+      //       .append("td")
+      //       .attr("class", "hate-groups")
+      //       .text(d => d),
+      //     update => update,
+      //     exit => exit.remove())
   }
 }
 

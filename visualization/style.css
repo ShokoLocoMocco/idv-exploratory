@@ -77,11 +77,11 @@ a:link, a:visited {
   stroke-width: 1;
 }
 
-.tooltip {
+#tooltip {
   display: block;
   height: fit-content;
+  position: absolute;
   background-color: black;
-  opacity: 0.9;
   pointer-events: none;
   padding: 7px;
   color: white;

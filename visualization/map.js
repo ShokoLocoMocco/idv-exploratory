@@ -32,8 +32,14 @@ class USMap {
           .geoPath()
           .projection(projection);
 
-        const populationLookup = new Map(uniqueData.map(d => [d.state, d.gpsPerCapita]))
+        const hgLookup = new Map(uniqueData.map(d => [d.state, d.gpsPerCapita]))
 
+        // tooltip
+        d3.select("body")
+          .append("div")
+          .attr("id", "tooltip");
+
+        // map
         this.svg = d3
           .select("#map")
           .append("svg")
@@ -47,25 +53,10 @@ class USMap {
           .attr("d", path)
           .attr("class", "state")
           .attr("fill", d => {
-            /* the curly braces here allow me to do more when this function is envoked each time.
-            the best use of this is to console log the value, so for each item (d) in data, we console log (d) to get more clarity */
             console.log(d)
-
-            // PART 1: I will save the state name from the data element that is getting created
             const stateName = d.properties.NAME
-
-            // PART 2: get the data associated with that state name
-
-            // OPTION A: using [array].find
-            /* This version is the "crude" option, not performance optimized, that just looks for the state name in the populations data set */
-            //const statePopulations = uniqueData.find(e => e.state === stateName).gpsPerCapita
-
-            // OPTION B: using a pre-defined map.get
-            /* This version is more advanced, leveraging a pre-defined Map.*/
-            const statePopulations2 = populationLookup.get(stateName)
-
-            // PART 3: use the color scale defined above to return a color
-            return colorScale(statePopulations2)
+            const stateHG = hgLookup.get(stateName)
+            return colorScale(stateHG)
 
           })
           .attr("fill-opacity", 0.8)
@@ -73,8 +64,22 @@ class USMap {
             .select(this)
             .attr("fill-opacity", 1)
             })
+          .on('mouseover.tooltip', function(d) { d3 // tooltip
+            .select('#tooltip')
+            .transition()
+            .duration(200)
+            .style('opacity', 0.9)
+            .text(d.properties.NAME)})
+          .on('mouseout.tooltip', function() { d3 // tooltip
+            .select('#tooltip')
+            .style('opacity', 0)
+          })
+          .on('mousemove.tooltip', function() { d3 // tooltip
+            .select('#tooltip')
+            .style('left', (d3.event.pageX + 20) + 'px')
+            .style('top', (d3.event.pageY + 20) + 'px')
+          })
           .on("mouseout", function(d, i) { d3
-            //.selectAll("path")
             .select(this)
             .attr("fill-opacity", 0.8)
           })
@@ -83,10 +88,9 @@ class USMap {
             .join("path");
             setGlobalState({ selectedState: d.properties.NAME });
           });
-
     }
 
-    draw(state, setGlobalState) { // updating map state updates global state
+    draw(state, setGlobalState) {
 
     }
   }
