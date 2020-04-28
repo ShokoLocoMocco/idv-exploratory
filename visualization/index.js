@@ -1,8 +1,9 @@
 import { USMap } from "./map.js";
+import { USstate } from "./state_name.js"; // new
 import { Barchart } from "./barchart.js";
 import { Table } from "./table.js";
 
-let map, barchart, table;
+let map, stateName, barchart, table;
 
 // global state
 
@@ -38,6 +39,7 @@ Promise.all([
 
 function init() {
   map = new USMap(state, setGlobalState);
+  stateName = new USstate(state, setGlobalState);
   barchart = new Barchart(state, setGlobalState);
   table = new Table(state, setGlobalState);
   draw();
@@ -45,6 +47,7 @@ function init() {
 
 function draw() {
   map.draw(state);
+  stateName.draw(state, setGlobalState);
   barchart.draw(state, setGlobalState);
   table.draw(state, setGlobalState);
 }

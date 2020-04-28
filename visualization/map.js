@@ -59,10 +59,10 @@ class USMap {
             return colorScale(stateHG)
 
           })
-          .attr("fill-opacity", 0.8)
+          .attr("opacity", 0.8)
           .on("mouseover", function(d, i) { d3
             .select(this)
-            .attr("fill-opacity", 1)
+            .attr("opacity", 1)
             })
           .on('mouseover.tooltip', function(d) { d3 // tooltip
             .select('#tooltip')
@@ -81,7 +81,7 @@ class USMap {
           })
           .on("mouseout", function(d, i) { d3
             .select(this)
-            .attr("fill-opacity", 0.8)
+            .attr("opacity", 0.8)
           })
           .on("click", function(d, i) { d3
             .select(this)

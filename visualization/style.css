@@ -12,6 +12,7 @@ body {
   row-gap: 1em;
   padding-top: 2em;
   height: 70vh;
+  grid-template-rows: 1fr, 1fr;
 }
 
 /* flex = spread out divs within space */
@@ -20,17 +21,36 @@ body {
   /*grid-row-end: span 2; /* span 2 rows */
   margin-left: -4em;
   margin-top: -2em;
+  grid-row-start: 1;
+  height: 60vh;
+}
+
+#state-name {
+  grid-row-start: 2;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #d63447;
+  text-transform: uppercase;
+  height: fit-content;
+  width: fit-content;
+  padding: 0.5em;
+  border: 1px solid #000;
+  background-color: #fff;
 }
 
 #barchart {
   margin-left: 5em;
   margin: 0;
   overflow: hidden;
+  grid-row-start: 1;
+  grid-row-end: span 2;
 }
 
 #table {
   margin: 0em;
   overflow-y: scroll;
+  grid-row-start: 1;
+  grid-row-end: span 2;
 }
 
 thead,
@@ -38,19 +58,12 @@ tbody tr {
   display: table;
   width: 100%;
   table-layout: fixed;
-  border-bottom: 1px solid #ffecc7;
+  border-bottom: 1px solid rgba(252,191,30,0.35);
 }
 
-/*tbody {
-  width: 100%;
-  display: block;
-  height: 70vh;
-  overflow: scroll;
-}*/
-
-th,
 td {
-
+  word-wrap: break-word;
+  white-space: normal;
 }
 
 h1 {
@@ -60,11 +73,11 @@ h1 {
 h3 {
   font-family: "Roboto Condensed", sans-serif;
   margin-bottom: 0.5em;
+  color: #d63447;
 }
 
 p {
   margin: 0;
-
 }
 
 a:link, a:visited {
@@ -85,11 +98,14 @@ a:link, a:visited {
   pointer-events: none;
   padding: 7px;
   color: white;
-  font-size: 14px;
+  font-size: 0.9em;
 }
 
 .columns {
+  font-weight: normal;
   text-align: left;
+  color: #d63447;
+  font-size: 1em;
 }
 
 .hate-groups {
