@@ -6,5 +6,5 @@ Phase | View
 --- | ---
 **Prospectus, Sketches, Mockups** | [link](sketches)
 **Architecture** | link
-**Data** | link
+**Data** | [link](sketches)
 **Narrative Visualization** | link
