@@ -32,7 +32,7 @@ In addition to the format of the SPLC data, I will filter and “manipulate” i
 
 - Ideological rise and fall (and rise)
    - Observe which groups are on the rise and which have fallen: What events might have contributed to these changes?
-   - Line chart, possibly highlightable and with presidential terms marked in the background): Number of groups belonging to an ideology for each year (2000-2019)
+   - Line chart, possibly highlightable and with presidential terms marked in the background: Number of groups belonging to an ideology for each year (2000-2019)
 
 - See specific names and locations of hate groups in the table (Sortable? Drop down?)
 
