@@ -20,7 +20,7 @@ In addition to the format of the SPLC data, I will filter and “manipulate” i
 ## Sketch & Mockup
 
 <img src="narrative_sketch.png" width="600">
-<img src="narrative_mockup.png" width="750">
+<img src="narrative_mockup.png" width="800">
 
 - Overview on hate groups in 2019, and since 2000, in the US > focus on NYS
    - Bar chart: Compares number of groups belonging to an ideology as % of total hate groups for US and NYS (ex. US has 70 documented anti-LGBTQ groups, or 7.4% of total number of hate groups in the US. NYS has 2 anti-LGBTQ groups, or 4.5% of total number of hate groups in NYS.) > will look at possible ways of visualizing the bars
