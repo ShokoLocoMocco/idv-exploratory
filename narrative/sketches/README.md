@@ -36,11 +36,11 @@ In addition to the format of the SPLC data, I will filter and “manipulate” i
 
 - See specific names and locations of hate groups in the table (Sortable? Drop down?)
 
-## [Data](../data)
+## [Data](../../data)
 
 Visual | Place | Description | File
 --- | --- | --- | ---
-Bar | US, NYS | By ideology in 2019 (%) | hg_ideology_pct.csv
-Map | NYS | Point: locations of groups | hg_nys_geocoded.csv
-Line | NYS | Multiple lines (highlightable): ideologies per year (2010-2019) | hg_nys_ideologies.csv
-Table | NYS | List of groups, ideologies, states | hg.csv (filter in D3?)
+**Bar** | US, NYS | By ideology in 2019 (%) | hg_ideology_pct.csv
+**Map** | NYS | Point: locations of groups | hg_nys_geocoded.csv
+**Line** | NYS | Multiple lines (highlightable): ideologies per year (2010-2019) | hg_nys_ideologies.csv
+**Table** | NYS | List of groups, ideologies, states | hg.csv (filter in D3?)

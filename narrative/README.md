@@ -4,7 +4,6 @@
 
 Phase | View
 --- | ---
-**Prospectus, Sketches, Mockups** | [link](sketches)
-**Architecture** | link
-**Data** | [link](sketches)
+**Prospectus, Sketch, Mockup, Architecture, Data** | [link](sketches)
+**Data** | [link](../data)
 **Narrative Visualization** | link
