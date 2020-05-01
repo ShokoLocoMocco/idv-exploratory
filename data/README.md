@@ -1,7 +1,14 @@
 ## Data Source
 
-The [Southern Poverty Law Center] has compiled a [database](https://www.splcenter.org/hate-map) of active hate groups in the U.S. since 2010. For the project, I am focusing on the recently released 2019 data.
+The Southern Poverty Law Center has compiled a [database](https://www.splcenter.org/hate-map) of active hate groups in the U.S. since 2010.
 
-- `hg.csv`: The raw data for 2019 lists each hate group by city (if applicable) and state, along with ideology. For each state, I added the per capita number of groups.
-- `hg_ideology_across.csv`: Number of hate groups by ideology by state. This includes the same groups but in different locations within a state.
+***Exploratory***:
+- `hg.csv`: The raw data lists each hate group by city (if applicable) and state, along with ideology. For each state, I added the per capita number of groups. (2019)
+- `hg_ideology_across.csv`: Number of hate groups by ideology by state. This includes the same groups but in different locations within a state. (2019)
 - `usStates.json`: GeoJSON file of the 50 states for mapping.
+
+***Narrative***
+- `hg.csv`
+- `hg_ideology_pct.csv`: Hate groups by ideology as percent of total number of hate groups in US and in NYS (2019)
+- `hg_nys_geocoded.csv`: Cities (geocoded) specified as location of at least one NYS hate group (2019)
+- `hg_nys_ideologies.csv`: Number of hate groups by ideology in NYS (2000-2019)
