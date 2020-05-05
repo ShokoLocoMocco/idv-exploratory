@@ -40,7 +40,7 @@ In addition to the format of the SPLC data, I will filter and “manipulate” i
 
 Visual | Place | Description | File
 --- | --- | --- | ---
-**Bar** | US, NYS | By ideology in 2019 (%) | `[hg_ideology_pct.csv](https://github.com/cheje/idv-exploratory/blob/master/data/hg_ideology_pct.csv)`
-**Map** | NYS | Point: locations of groups | `[hg_nys_geocoded.csv](https://github.com/cheje/idv-exploratory/blob/master/data/hg_nys_geocoded.csv)`
-**Line** | NYS | Multiple lines (highlightable): ideologies per year (2010-2019) | `[hg_nys_ideologies.csv](https://github.com/cheje/idv-exploratory/blob/master/data/hg_nys_ideologies.csv)`
-**Table** | NYS | List of groups, ideologies, states | `[hg.csv](https://github.com/cheje/idv-exploratory/blob/master/data/hg.csv)` (filter in D3?)
+**Bar** | US, NYS | By ideology in 2019 (%) | `hg_ideology_pct.csv`
+**Map** | NYS | Point: locations of groups | `hg_nys_geocoded.csv`, `nys.json`
+**Line** | NYS | Multiple lines (highlightable): ideologies per year (2010-2019) | `hg_nys_ideologies.csv`
+**Table** | NYS | List of groups, ideologies, states | `hg.csv`
