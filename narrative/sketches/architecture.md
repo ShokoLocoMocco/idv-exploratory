@@ -19,7 +19,7 @@
 
 File | Place | Description | Year | Data
 --- | --- | --- | --- | ---
-`map.js` | NYS | Points of group locations | 2019 | `hg_nys_geocoded.csv`, `nys.json`
+`map.js` | NYS | Points of group locations | 2019 | `hg_nys_geocoded.csv`, `nys_counties.json`
 `table-cities.js` | NYS | Groups by ideology by city | 2019 | `hg.csv`
 `bar-compare.js` | US, NYS | % by ideology | 2019 | `hg_ideology_pct.csv`
 `table-hg` | NYS | List of all groups + city, ideology | 2019 | `hg.csv`

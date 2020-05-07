@@ -42,9 +42,11 @@ In addition to the format of the SPLC data, I will filter and “manipulate” i
 
 ## [Data](../../data)
 
-Visual | Place | Description | File
---- | --- | --- | ---
-**Bar** | US, NYS | By ideology in 2019 (%) | `hg_ideology_pct.csv`
-**Map** | NYS | Point: locations of groups | `hg_nys_geocoded.csv`, `nys.json`
-**Line** | NYS | Multiple lines (highlightable): ideologies per year (2010-2019) | `hg_nys_ideologies.csv`
-**Table** | NYS | List of groups and their ideology | `hg.csv`
+File | Place | Description | Year | Data
+--- | --- | --- | --- | ---
+`map.js` | NYS | Points of group locations | 2019 | `hg_nys_geocoded.csv`, `nys_counties.json`
+`table-cities.js` | NYS | Groups by ideology by city | 2019 | `hg.csv`
+`bar-compare.js` | US, NYS | % by ideology | 2019 | `hg_ideology_pct.csv`
+`table-hg` | NYS | List of all groups + city, ideology | 2019 | `hg.csv`
+`lines.js` | NYS | Multiple lines of ideology count per year | 2010-2019 | `hg_nys_ideologies.csv`
+`bar-ideology.js` | NYS | Groups by ideology | 2000-2019 | `hg_nys_ideologies.csv`
