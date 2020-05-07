@@ -48,5 +48,5 @@ File | Place | Description | Year | Data
 `table-cities.js` | NYS | Groups by ideology by city | 2019 | `hg.csv`
 `bar-compare.js` | US, NYS | % by ideology | 2019 | `hg_ideology_pct.csv`
 `table-hg` | NYS | List of all groups + city, ideology | 2019 | `hg.csv`
-`lines.js` | NYS | Multiple lines of ideology count per year | 2010-2019 | `hg_nys_ideologies.csv`
+`lines.js` | NYS | Small multiple line charts of ideology count per year | 2010-2019 | `hg_nys_ideologies.csv`
 `bar-ideology.js` | NYS | Groups by ideology | 2000-2019 | `hg_nys_ideologies.csv`
