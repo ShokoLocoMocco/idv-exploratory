@@ -13,10 +13,6 @@ let state = {
   ideology: null, // full dataset
   domain: [], // value range
   selectedState: null,
-  //selectedMetric: null
-  // hover: {
-  //   USstate: null,
-  //   gpsPerCapita: null,
 };
 
 Promise.all([

@@ -57,7 +57,6 @@ class USMap {
             const stateName = d.properties.NAME
             const stateHG = hgLookup.get(stateName)
             return colorScale(stateHG)
-
           })
           .attr("opacity", 0.8)
           .on("mouseover", function(d, i) { d3
