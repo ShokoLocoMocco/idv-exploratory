@@ -56,7 +56,7 @@ File | Place | Description | Year | Data
 </div>
 
 <script src="../../../lib/d3.js"></script>
-<script src="main.js" type="module"></script>
+<script type="module" src="main.js"></script>
 ```
 
 ### main.js
@@ -64,9 +64,9 @@ File | Place | Description | Year | Data
 import { chart1 } from './map.js'
 import { chart2 } from './table-cities.js'
 import { chart3 } from './bar-compare.js'
-import { chart3 } from './table-hg.js'
-import { chart3 } from './lines.js'
-import { chart3 } from './bar-ideology.js'
+import { chart4 } from './table-hg.js'
+import { chart5 } from './lines.js'
+import { chart6 } from './bar-ideology.js'
 
 map();
 table-cities();
