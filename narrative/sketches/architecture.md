@@ -11,7 +11,7 @@
   - One of these charts:
     - `lines.js`: "Timeline" of numbers by ideology (2000-2019) :small_red_triangle: *highlight*
     - `bar-ideology.js`: Count of groups by ideology in NYS (2000-2019) :small_red_triangle: *dropdown*
-    - `bar-diverging.js`: Compares increase and decrease of groups by ideology using absolute numbers and percentage change in NYS (2018-2019) :small_red_triangle: *radio button*
+    ~~- `bar-diverging.js`: Compares increase and decrease of groups by ideology using absolute numbers and percentage change in NYS (2018-2019) :small_red_triangle: *radio button*~~
 - **style.css**
 - **/[data](data)**
 
@@ -40,7 +40,7 @@
   </div>
 
   <div class="section" id='five'>
-    <div class="chart" id="lines"> </div> <!-- or bar-ideology, bar-diverging -->
+    <div class="chart" id="lines"> </div> <!-- or bar-ideology -->
   </div>
 </div>
 
@@ -56,7 +56,6 @@ import { chart3 } from './bar-compare.js'
 import { chart3 } from './table-hg.js'
 import { chart3 } from './lines.js'
 import { chart3 } from './bar-ideology.js'
-import { chart3 } from './bar-diverging.js'
 
 map();
 table-cities();
@@ -64,7 +63,6 @@ bar-compare();
 table-hg();
 lines();
 bar-ideology();
-bar-diverging();
 ```
 
 #### map.js
@@ -169,33 +167,6 @@ function draw() { /* what runs with each change in data input */
 }
 ```
 
-#### bar-diverging.js
-*Compares increase and decrease of groups by ideology between 2018 and 2019 using absolute numbers and percentage change in NYS ([example](https://observablehq.com/@d3/diverging-bar-chart))*  
-:small_red_triangle: radio buttons: absolute, %
-```
-let state = {
-  // functions that will update
-};
-
-d3.csv("../../data/hg_nys_change.csv", d3.autoType).then(data => {
-  state.data = data;
-  init();
-});
-
-function init() { /* runs only once */
-  // scales
-  // axes
-  // radio button setup
-  // svg
-  // add axes
-  draw();
-}
-
-function draw() { /* what runs with data change */
-  // filter data
-}
-```
-
 ### Charts
 
 File | Place | Description | Year | Data
@@ -206,4 +177,3 @@ File | Place | Description | Year | Data
 `table-hg` | NYS | List of all groups + city, ideology | 2019 | `hg.csv`
 `lines.js` | NYS | Multiple lines of ideology count per year | 2010-2019 | `hg_nys_ideologies.csv`
 `bar-ideology.js` | NYS | Groups by ideology | 2000-2019 | `hg_nys_ideologies.csv`
-`bar-diverging.js` | NYS | Groups by ideology, count and percent change | 2018-2019 | `hg_nys_change.csv`
