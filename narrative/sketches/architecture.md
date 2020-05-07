@@ -11,9 +11,20 @@
   - One of these charts:
     - `lines.js`: "Timeline" of numbers by ideology (2000-2019) :small_red_triangle: *highlight*
     - `bar-ideology.js`: Count of groups by ideology in NYS (2000-2019) :small_red_triangle: *dropdown*
-    ~~- `bar-diverging.js`: Compares increase and decrease of groups by ideology using absolute numbers and percentage change in NYS (2018-2019) :small_red_triangle: *radio button*~~
+    - ~~`bar-diverging.js`: Compares increase and decrease of groups by ideology using absolute numbers and percentage change in NYS (2018-2019) :small_red_triangle: *radio button*~~
 - **style.css**
-- **/[data](data)**
+- **/[data](../../data)**
+
+### Charts
+
+File | Place | Description | Year | Data
+--- | --- | --- | --- | ---
+`map.js` | NYS | Points of group locations | 2019 | `hg_nys_geocoded.csv`, `nys.json`
+`table-cities.js` | NYS | Groups by ideology by city | 2019 | `hg.csv`
+`bar-compare.js` | US, NYS | % by ideology | 2019 | `hg_ideology_pct.csv`
+`table-hg` | NYS | List of all groups + city, ideology | 2019 | `hg.csv`
+`lines.js` | NYS | Multiple lines of ideology count per year | 2010-2019 | `hg_nys_ideologies.csv`
+`bar-ideology.js` | NYS | Groups by ideology | 2000-2019 | `hg_nys_ideologies.csv`
 
 ### index.html
 ```
@@ -140,7 +151,7 @@ function draw() { /* what runs with each change in data input */
 
 #### bar-ideology.js
 *Number of groups by ideology in NYS (2000-2019)*  
-:small_red_triangle: dropdown of years
+:small_red_triangle: dropdown of ideologies
 
 ```
 let state = {
@@ -166,14 +177,3 @@ function draw() { /* what runs with each change in data input */
   // redraw axes?
 }
 ```
-
-### Charts
-
-File | Place | Description | Year | Data
---- | --- | --- | --- | ---
-`map.js` | NYS | Points of group locations | 2019 | `hg_nys_geocoded.csv`, `nys.json`
-`table-cities.js` | NYS | Groups by ideology by city | 2019 | `hg.csv`
-`bar-compare.js` | US, NYS | % by ideology | 2019 | `hg_ideology_pct.csv`
-`table-hg` | NYS | List of all groups + city, ideology | 2019 | `hg.csv`
-`lines.js` | NYS | Multiple lines of ideology count per year | 2010-2019 | `hg_nys_ideologies.csv`
-`bar-ideology.js` | NYS | Groups by ideology | 2000-2019 | `hg_nys_ideologies.csv`

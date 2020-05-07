@@ -36,6 +36,10 @@ In addition to the format of the SPLC data, I will filter and “manipulate” i
 
 - See specific names and locations of hate groups in the table (Sortable? Drop down?)
 
+## Architecture
+
+[View here](architecture)
+
 ## [Data](../../data)
 
 Visual | Place | Description | File
