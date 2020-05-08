@@ -5,7 +5,7 @@
 - **index.html**
 - **main.js**
   - `map.js`: NYS map of municipalities with hate groups present (2019) :small_red_triangle: *zoom, tooltip*
-    - `table-cities.js`: Count of groups per ideology by NYS municipality (2019)
+    - ~~`table-cities.js`: Count of groups per ideology by NYS municipality (2019)~~
   - `bar-compare.js`: % (with raw # included) of each ideology (100% = all groups) in US vs. NYS using grouped bar chart (2019)
   - `table-hg.js`: list of all groups in NYS (2019) :small_red_triangle: *dropdown*
   - One of these charts:

@@ -38,7 +38,7 @@ In addition to the format of the SPLC data, I will filter and “manipulate” i
 
 ## Architecture
 
-[View here](architecture.md)
+[View here](https://github.com/cheje/idv-projects/blob/master/narrative/sketches/architecture.md)
 
 ## [Data](../../data)
 
